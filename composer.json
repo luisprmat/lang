@@ -6,9 +6,14 @@
     "authors": [
         {
             "name": "Laravel-Lang Team",
-            "url": "https://github.com/Laravel-Lang"
+            "email": "caouecs@example.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Lang\\": "script/"
+        }
+    },
     "suggest": {
         "overtrue/laravel-lang": "Command to add languages in your project",
         "arcanedev/laravel-lang": "Translations manager and checker for Laravel 5",
