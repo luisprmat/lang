@@ -2,10 +2,10 @@
 | | | | | | | | | | |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 [ar ✔](#ar)|[az ❗](#az)|[be ❗](#be)|[bg ❗](#bg)|[bn ❗](#bn)|[bs ❗](#bs)|[ca ❗](#ca)|[cs ❗](#cs)|[cy ❗](#cy)|[da ❗](#da)
-[de ❗](#de)|[de_CH ❗](#de_CH)|[el ❗](#el)|[es ❗](#es)|[et ❗](#et)|[eu ❗](#eu)|[fa ❗](#fa)|[fi ❗](#fi)|[fil ❗](#fil)|[fr ❗](#fr)
+[de ❗](#de)|[de_CH ❗](#de_CH)|[el ❗](#el)|[es ✔](#es)|[et ❗](#et)|[eu ❗](#eu)|[fa ❗](#fa)|[fi ❗](#fi)|[fil ❗](#fil)|[fr ❗](#fr)
 [gl ❗](#gl)|[he ❗](#he)|[hi ❗](#hi)|[hr ❗](#hr)|[hu ❗](#hu)|[hy ❗](#hy)|[id ❗](#id)|[is ❗](#is)|[it ❗](#it)|[ja ❗](#ja)
 [ka ❗](#ka)|[kk ❗](#kk)|[km ❗](#km)|[kn ❗](#kn)|[ko ❗](#ko)|[lt ✔](#lt)|[lv ❗](#lv)|[me ❗](#me)|[mk ❗](#mk)|[mn ❗](#mn)
-[mr ❗](#mr)|[ms ❗](#ms)|[nb ❗](#nb)|[ne ❗](#ne)|[nl ❗](#nl)|[nn ❗](#nn)|[pl ❗](#pl)|[ps ❗](#ps)|[pt ❗](#pt)|[pt_BR ❗](#pt_BR)
+[mr ❗](#mr)|[ms ❗](#ms)|[nb ❗](#nb)|[ne ❗](#ne)|[nl ❗](#nl)|[nn ❗](#nn)|[pl ✔](#pl)|[ps ❗](#ps)|[pt ✔](#pt)|[pt_BR ❗](#pt_BR)
 [ro ❗](#ro)|[ru ✔](#ru)|[sc ❗](#sc)|[si ❗](#si)|[sk ❗](#sk)|[sl ❗](#sl)|[sq ❗](#sq)|[sr_Cyrillic ❗](#sr_Cyrillic)|[sr_Latin ❗](#sr_Latin)|[sv ❗](#sv)
 [sw ❗](#sw)|[tg ❗](#tg)|[th ❗](#th)|[tk ❗](#tk)|[tl ❗](#tl)|[tr ❗](#tr)|[ug ❗](#ug)|[uk ❗](#uk)|[ur ❗](#ur)|[uz_Cyrillic ❗](#uz_Cyrillic)
 [uz_Latin ❗](#uz_Latin)|[vi ❗](#vi)|[zh_CN ❗](#zh_CN)|[zh_HK ❗](#zh_HK)|[zh_TW ❗](#zh_TW)
@@ -2966,13 +2966,9 @@ into your web browser:
 
 ## es
 
-<details>
-<summary>show<small> (all missing: 1, including not present: 0)</small></summary>
 
- * json : Editor
+All lines are translated 😊
 
-[ [to top](#todo-list) ]
-</details>
 
 ## et
 
@@ -4181,11 +4177,8 @@ into your web browser: : not present
 ## fr
 
 <details>
-<summary>show<small> (all missing: 6, including not present: 0)</small></summary>
+<summary>show<small> (all missing: 3, including not present: 0)</small></summary>
 
- * json : Code
- * json : Email
- * json : Permissions
  * json : Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.
  * json : Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application.
  * json : When two factor authentication is enabled, you will be prompted for a secure, random token during authentication. You may retrieve this token from your phone's Google Authenticator application.
@@ -9897,14 +9890,9 @@ into your web browser:
 
 ## pl
 
-<details>
-<summary>show<small> (all missing: 2, including not present: 0)</small></summary>
 
- * json : Administrator
- * json : Email
+All lines are translated 😊
 
-[ [to top](#todo-list) ]
-</details>
 
 ## ps
 
@@ -10146,15 +10134,9 @@ into your web browser:
 
 ## pt
 
-<details>
-<summary>show<small> (all missing: 3, including not present: 0)</small></summary>
 
- * json : API Token
- * json : API Tokens
- * json : Editor
+All lines are translated 😊
 
-[ [to top](#todo-list) ]
-</details>
 
 ## pt_BR
 

@@ -52,7 +52,7 @@ class Storage
         return false;
     }
 
-    private function getExclusionList(string $language, string $directory = __DIR__): ?array
+    private function getExclusionList(string $language, string $directory = __DIR__.'/../'): ?array
     {
         return $this->load(
             implode(DIRECTORY_SEPARATOR, [$directory, 'excludes', $language . '.php'])
