@@ -89,6 +89,8 @@ class TodoGenerator
     {
         $path = $this->getJsonPath($language, $directory);
 
+        var_dump(substr($path, 60));
+
         return $this->storage->getDecodedJson($path);
     }
 

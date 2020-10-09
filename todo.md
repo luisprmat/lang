@@ -22,7 +22,7 @@ All lines are translated 😊
 ## az
 
 <details>
-<summary>show<small> (all missing: 284, including not present: 110)</small></summary>
+<summary>show<small> (all missing: 173, including not present: 110)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -198,117 +198,6 @@ into your web browser:
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
  * json : Your email address is not verified.
- * passwords : throttled
- * validation : date_equals
- * validation : ends_with
- * validation : gt.numeric
- * validation : gt.file
- * validation : gt.string
- * validation : gt.array
- * validation : gte.numeric
- * validation : gte.file
- * validation : gte.string
- * validation : gte.array
- * validation : lt.numeric
- * validation : lt.file
- * validation : lt.string
- * validation : lt.array
- * validation : lte.numeric
- * validation : lte.file
- * validation : lte.string
- * validation : lte.array
- * validation : not_regex
- * validation : password
- * validation : starts_with
- * validation : uuid
- * validation-inline : accepted
- * validation-inline : active_url
- * validation-inline : after
- * validation-inline : after_or_equal
- * validation-inline : alpha
- * validation-inline : alpha_dash
- * validation-inline : alpha_num
- * validation-inline : array
- * validation-inline : before
- * validation-inline : before_or_equal
- * validation-inline : between.numeric
- * validation-inline : between.file
- * validation-inline : between.string
- * validation-inline : between.array
- * validation-inline : boolean
- * validation-inline : confirmed
- * validation-inline : date
- * validation-inline : date_equals
- * validation-inline : date_format
- * validation-inline : different
- * validation-inline : digits
- * validation-inline : digits_between
- * validation-inline : dimensions
- * validation-inline : distinct
- * validation-inline : email
- * validation-inline : ends_with
- * validation-inline : exists
- * validation-inline : file
- * validation-inline : filled
- * validation-inline : gt.numeric
- * validation-inline : gt.file
- * validation-inline : gt.string
- * validation-inline : gt.array
- * validation-inline : gte.numeric
- * validation-inline : gte.file
- * validation-inline : gte.string
- * validation-inline : gte.array
- * validation-inline : image
- * validation-inline : in
- * validation-inline : in_array
- * validation-inline : integer
- * validation-inline : ip
- * validation-inline : ipv4
- * validation-inline : ipv6
- * validation-inline : json
- * validation-inline : lt.numeric
- * validation-inline : lt.file
- * validation-inline : lt.string
- * validation-inline : lt.array
- * validation-inline : lte.numeric
- * validation-inline : lte.file
- * validation-inline : lte.string
- * validation-inline : lte.array
- * validation-inline : max.numeric
- * validation-inline : max.file
- * validation-inline : max.string
- * validation-inline : max.array
- * validation-inline : mimes
- * validation-inline : mimetypes
- * validation-inline : min.numeric
- * validation-inline : min.file
- * validation-inline : min.string
- * validation-inline : min.array
- * validation-inline : not_in
- * validation-inline : not_regex
- * validation-inline : numeric
- * validation-inline : password
- * validation-inline : present
- * validation-inline : regex
- * validation-inline : required
- * validation-inline : required_if
- * validation-inline : required_unless
- * validation-inline : required_with
- * validation-inline : required_with_all
- * validation-inline : required_without
- * validation-inline : required_without_all
- * validation-inline : same
- * validation-inline : size.numeric
- * validation-inline : size.file
- * validation-inline : size.string
- * validation-inline : size.array
- * validation-inline : starts_with
- * validation-inline : string
- * validation-inline : timezone
- * validation-inline : unique
- * validation-inline : uploaded
- * validation-inline : url
- * validation-inline : uuid
 
 [ [to top](#todo-list) ]
 </details>
@@ -316,7 +205,7 @@ into your web browser:
 ## be
 
 <details>
-<summary>show<small> (all missing: 294, including not present: 110)</small></summary>
+<summary>show<small> (all missing: 173, including not present: 110)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -492,127 +381,6 @@ into your web browser:
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
  * json : Your email address is not verified.
- * passwords : throttled
- * validation : after_or_equal
- * validation : before_or_equal
- * validation : date_equals
- * validation : dimensions
- * validation : distinct
- * validation : ends_with
- * validation : file
- * validation : gt.numeric
- * validation : gt.file
- * validation : gt.string
- * validation : gt.array
- * validation : gte.numeric
- * validation : gte.file
- * validation : gte.string
- * validation : gte.array
- * validation : in_array
- * validation : ipv4
- * validation : ipv6
- * validation : lt.numeric
- * validation : lt.file
- * validation : lt.string
- * validation : lt.array
- * validation : lte.numeric
- * validation : lte.file
- * validation : lte.string
- * validation : lte.array
- * validation : not_regex
- * validation : password
- * validation : present
- * validation : starts_with
- * validation : uploaded
- * validation : uuid
- * validation-inline : accepted
- * validation-inline : active_url
- * validation-inline : after
- * validation-inline : after_or_equal
- * validation-inline : alpha
- * validation-inline : alpha_dash
- * validation-inline : alpha_num
- * validation-inline : array
- * validation-inline : before
- * validation-inline : before_or_equal
- * validation-inline : between.numeric
- * validation-inline : between.file
- * validation-inline : between.string
- * validation-inline : between.array
- * validation-inline : boolean
- * validation-inline : confirmed
- * validation-inline : date
- * validation-inline : date_equals
- * validation-inline : date_format
- * validation-inline : different
- * validation-inline : digits
- * validation-inline : digits_between
- * validation-inline : dimensions
- * validation-inline : distinct
- * validation-inline : email
- * validation-inline : ends_with
- * validation-inline : exists
- * validation-inline : file
- * validation-inline : filled
- * validation-inline : gt.numeric
- * validation-inline : gt.file
- * validation-inline : gt.string
- * validation-inline : gt.array
- * validation-inline : gte.numeric
- * validation-inline : gte.file
- * validation-inline : gte.string
- * validation-inline : gte.array
- * validation-inline : image
- * validation-inline : in
- * validation-inline : in_array
- * validation-inline : integer
- * validation-inline : ip
- * validation-inline : ipv4
- * validation-inline : ipv6
- * validation-inline : json
- * validation-inline : lt.numeric
- * validation-inline : lt.file
- * validation-inline : lt.string
- * validation-inline : lt.array
- * validation-inline : lte.numeric
- * validation-inline : lte.file
- * validation-inline : lte.string
- * validation-inline : lte.array
- * validation-inline : max.numeric
- * validation-inline : max.file
- * validation-inline : max.string
- * validation-inline : max.array
- * validation-inline : mimes
- * validation-inline : mimetypes
- * validation-inline : min.numeric
- * validation-inline : min.file
- * validation-inline : min.string
- * validation-inline : min.array
- * validation-inline : not_in
- * validation-inline : not_regex
- * validation-inline : numeric
- * validation-inline : password
- * validation-inline : present
- * validation-inline : regex
- * validation-inline : required
- * validation-inline : required_if
- * validation-inline : required_unless
- * validation-inline : required_with
- * validation-inline : required_with_all
- * validation-inline : required_without
- * validation-inline : required_without_all
- * validation-inline : same
- * validation-inline : size.numeric
- * validation-inline : size.file
- * validation-inline : size.string
- * validation-inline : size.array
- * validation-inline : starts_with
- * validation-inline : string
- * validation-inline : timezone
- * validation-inline : unique
- * validation-inline : uploaded
- * validation-inline : url
- * validation-inline : uuid
 
 [ [to top](#todo-list) ]
 </details>
@@ -620,7 +388,7 @@ into your web browser:
 ## bg
 
 <details>
-<summary>show<small> (all missing: 262, including not present: 110)</small></summary>
+<summary>show<small> (all missing: 173, including not present: 110)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -796,95 +564,6 @@ into your web browser:
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
  * json : Your email address is not verified.
- * validation : password
- * validation-inline : accepted
- * validation-inline : active_url
- * validation-inline : after
- * validation-inline : after_or_equal
- * validation-inline : alpha
- * validation-inline : alpha_dash
- * validation-inline : alpha_num
- * validation-inline : array
- * validation-inline : before
- * validation-inline : before_or_equal
- * validation-inline : between.numeric
- * validation-inline : between.file
- * validation-inline : between.string
- * validation-inline : between.array
- * validation-inline : boolean
- * validation-inline : confirmed
- * validation-inline : date
- * validation-inline : date_equals
- * validation-inline : date_format
- * validation-inline : different
- * validation-inline : digits
- * validation-inline : digits_between
- * validation-inline : dimensions
- * validation-inline : distinct
- * validation-inline : email
- * validation-inline : ends_with
- * validation-inline : exists
- * validation-inline : file
- * validation-inline : filled
- * validation-inline : gt.numeric
- * validation-inline : gt.file
- * validation-inline : gt.string
- * validation-inline : gt.array
- * validation-inline : gte.numeric
- * validation-inline : gte.file
- * validation-inline : gte.string
- * validation-inline : gte.array
- * validation-inline : image
- * validation-inline : in
- * validation-inline : in_array
- * validation-inline : integer
- * validation-inline : ip
- * validation-inline : ipv4
- * validation-inline : ipv6
- * validation-inline : json
- * validation-inline : lt.numeric
- * validation-inline : lt.file
- * validation-inline : lt.string
- * validation-inline : lt.array
- * validation-inline : lte.numeric
- * validation-inline : lte.file
- * validation-inline : lte.string
- * validation-inline : lte.array
- * validation-inline : max.numeric
- * validation-inline : max.file
- * validation-inline : max.string
- * validation-inline : max.array
- * validation-inline : mimes
- * validation-inline : mimetypes
- * validation-inline : min.numeric
- * validation-inline : min.file
- * validation-inline : min.string
- * validation-inline : min.array
- * validation-inline : not_in
- * validation-inline : not_regex
- * validation-inline : numeric
- * validation-inline : password
- * validation-inline : present
- * validation-inline : regex
- * validation-inline : required
- * validation-inline : required_if
- * validation-inline : required_unless
- * validation-inline : required_with
- * validation-inline : required_with_all
- * validation-inline : required_without
- * validation-inline : required_without_all
- * validation-inline : same
- * validation-inline : size.numeric
- * validation-inline : size.file
- * validation-inline : size.string
- * validation-inline : size.array
- * validation-inline : starts_with
- * validation-inline : string
- * validation-inline : timezone
- * validation-inline : unique
- * validation-inline : uploaded
- * validation-inline : url
- * validation-inline : uuid
 
 [ [to top](#todo-list) ]
 </details>
@@ -892,7 +571,7 @@ into your web browser:
 ## bn
 
 <details>
-<summary>show<small> (all missing: 284, including not present: 110)</small></summary>
+<summary>show<small> (all missing: 173, including not present: 110)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -1068,117 +747,6 @@ into your web browser:
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
  * json : Your email address is not verified.
- * passwords : throttled
- * validation : date_equals
- * validation : ends_with
- * validation : gt.numeric
- * validation : gt.file
- * validation : gt.string
- * validation : gt.array
- * validation : gte.numeric
- * validation : gte.file
- * validation : gte.string
- * validation : gte.array
- * validation : lt.numeric
- * validation : lt.file
- * validation : lt.string
- * validation : lt.array
- * validation : lte.numeric
- * validation : lte.file
- * validation : lte.string
- * validation : lte.array
- * validation : not_regex
- * validation : password
- * validation : starts_with
- * validation : uuid
- * validation-inline : accepted
- * validation-inline : active_url
- * validation-inline : after
- * validation-inline : after_or_equal
- * validation-inline : alpha
- * validation-inline : alpha_dash
- * validation-inline : alpha_num
- * validation-inline : array
- * validation-inline : before
- * validation-inline : before_or_equal
- * validation-inline : between.numeric
- * validation-inline : between.file
- * validation-inline : between.string
- * validation-inline : between.array
- * validation-inline : boolean
- * validation-inline : confirmed
- * validation-inline : date
- * validation-inline : date_equals
- * validation-inline : date_format
- * validation-inline : different
- * validation-inline : digits
- * validation-inline : digits_between
- * validation-inline : dimensions
- * validation-inline : distinct
- * validation-inline : email
- * validation-inline : ends_with
- * validation-inline : exists
- * validation-inline : file
- * validation-inline : filled
- * validation-inline : gt.numeric
- * validation-inline : gt.file
- * validation-inline : gt.string
- * validation-inline : gt.array
- * validation-inline : gte.numeric
- * validation-inline : gte.file
- * validation-inline : gte.string
- * validation-inline : gte.array
- * validation-inline : image
- * validation-inline : in
- * validation-inline : in_array
- * validation-inline : integer
- * validation-inline : ip
- * validation-inline : ipv4
- * validation-inline : ipv6
- * validation-inline : json
- * validation-inline : lt.numeric
- * validation-inline : lt.file
- * validation-inline : lt.string
- * validation-inline : lt.array
- * validation-inline : lte.numeric
- * validation-inline : lte.file
- * validation-inline : lte.string
- * validation-inline : lte.array
- * validation-inline : max.numeric
- * validation-inline : max.file
- * validation-inline : max.string
- * validation-inline : max.array
- * validation-inline : mimes
- * validation-inline : mimetypes
- * validation-inline : min.numeric
- * validation-inline : min.file
- * validation-inline : min.string
- * validation-inline : min.array
- * validation-inline : not_in
- * validation-inline : not_regex
- * validation-inline : numeric
- * validation-inline : password
- * validation-inline : present
- * validation-inline : regex
- * validation-inline : required
- * validation-inline : required_if
- * validation-inline : required_unless
- * validation-inline : required_with
- * validation-inline : required_with_all
- * validation-inline : required_without
- * validation-inline : required_without_all
- * validation-inline : same
- * validation-inline : size.numeric
- * validation-inline : size.file
- * validation-inline : size.string
- * validation-inline : size.array
- * validation-inline : starts_with
- * validation-inline : string
- * validation-inline : timezone
- * validation-inline : unique
- * validation-inline : uploaded
- * validation-inline : url
- * validation-inline : uuid
 
 [ [to top](#todo-list) ]
 </details>
@@ -1186,7 +754,7 @@ into your web browser:
 ## bs
 
 <details>
-<summary>show<small> (all missing: 298, including not present: 110)</small></summary>
+<summary>show<small> (all missing: 173, including not present: 110)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -1362,131 +930,6 @@ into your web browser:
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
  * json : Your email address is not verified.
- * auth : failed
- * auth : throttle
- * passwords : throttled
- * validation : after_or_equal
- * validation : before_or_equal
- * validation : date_equals
- * validation : dimensions
- * validation : distinct
- * validation : ends_with
- * validation : file
- * validation : gt.numeric
- * validation : gt.file
- * validation : gt.string
- * validation : gt.array
- * validation : gte.numeric
- * validation : gte.file
- * validation : gte.string
- * validation : gte.array
- * validation : in_array
- * validation : ipv4
- * validation : ipv6
- * validation : json
- * validation : lt.numeric
- * validation : lt.file
- * validation : lt.string
- * validation : lt.array
- * validation : lte.numeric
- * validation : lte.file
- * validation : lte.string
- * validation : lte.array
- * validation : not_regex
- * validation : password
- * validation : present
- * validation : required_unless
- * validation : starts_with
- * validation : uploaded
- * validation : uuid
- * validation-inline : accepted
- * validation-inline : active_url
- * validation-inline : after
- * validation-inline : after_or_equal
- * validation-inline : alpha
- * validation-inline : alpha_dash
- * validation-inline : alpha_num
- * validation-inline : array
- * validation-inline : before
- * validation-inline : before_or_equal
- * validation-inline : between.numeric
- * validation-inline : between.file
- * validation-inline : between.string
- * validation-inline : between.array
- * validation-inline : boolean
- * validation-inline : confirmed
- * validation-inline : date
- * validation-inline : date_equals
- * validation-inline : date_format
- * validation-inline : different
- * validation-inline : digits
- * validation-inline : digits_between
- * validation-inline : dimensions
- * validation-inline : distinct
- * validation-inline : email
- * validation-inline : ends_with
- * validation-inline : exists
- * validation-inline : file
- * validation-inline : filled
- * validation-inline : gt.numeric
- * validation-inline : gt.file
- * validation-inline : gt.string
- * validation-inline : gt.array
- * validation-inline : gte.numeric
- * validation-inline : gte.file
- * validation-inline : gte.string
- * validation-inline : gte.array
- * validation-inline : image
- * validation-inline : in
- * validation-inline : in_array
- * validation-inline : integer
- * validation-inline : ip
- * validation-inline : ipv4
- * validation-inline : ipv6
- * validation-inline : json
- * validation-inline : lt.numeric
- * validation-inline : lt.file
- * validation-inline : lt.string
- * validation-inline : lt.array
- * validation-inline : lte.numeric
- * validation-inline : lte.file
- * validation-inline : lte.string
- * validation-inline : lte.array
- * validation-inline : max.numeric
- * validation-inline : max.file
- * validation-inline : max.string
- * validation-inline : max.array
- * validation-inline : mimes
- * validation-inline : mimetypes
- * validation-inline : min.numeric
- * validation-inline : min.file
- * validation-inline : min.string
- * validation-inline : min.array
- * validation-inline : not_in
- * validation-inline : not_regex
- * validation-inline : numeric
- * validation-inline : password
- * validation-inline : present
- * validation-inline : regex
- * validation-inline : required
- * validation-inline : required_if
- * validation-inline : required_unless
- * validation-inline : required_with
- * validation-inline : required_with_all
- * validation-inline : required_without
- * validation-inline : required_without_all
- * validation-inline : same
- * validation-inline : size.numeric
- * validation-inline : size.file
- * validation-inline : size.string
- * validation-inline : size.array
- * validation-inline : starts_with
- * validation-inline : string
- * validation-inline : timezone
- * validation-inline : unique
- * validation-inline : uploaded
- * validation-inline : url
- * validation-inline : uuid
 
 [ [to top](#todo-list) ]
 </details>
@@ -1494,7 +937,7 @@ into your web browser:
 ## ca
 
 <details>
-<summary>show<small> (all missing: 218, including not present: 110)</small></summary>
+<summary>show<small> (all missing: 129, including not present: 110)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -1625,95 +1068,6 @@ into your web browser:
  * json : You may delete any of your existing tokens if they are no longer needed. : not present
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
- * validation : ends_with
- * validation-inline : accepted
- * validation-inline : active_url
- * validation-inline : after
- * validation-inline : after_or_equal
- * validation-inline : alpha
- * validation-inline : alpha_dash
- * validation-inline : alpha_num
- * validation-inline : array
- * validation-inline : before
- * validation-inline : before_or_equal
- * validation-inline : between.numeric
- * validation-inline : between.file
- * validation-inline : between.string
- * validation-inline : between.array
- * validation-inline : boolean
- * validation-inline : confirmed
- * validation-inline : date
- * validation-inline : date_equals
- * validation-inline : date_format
- * validation-inline : different
- * validation-inline : digits
- * validation-inline : digits_between
- * validation-inline : dimensions
- * validation-inline : distinct
- * validation-inline : email
- * validation-inline : ends_with
- * validation-inline : exists
- * validation-inline : file
- * validation-inline : filled
- * validation-inline : gt.numeric
- * validation-inline : gt.file
- * validation-inline : gt.string
- * validation-inline : gt.array
- * validation-inline : gte.numeric
- * validation-inline : gte.file
- * validation-inline : gte.string
- * validation-inline : gte.array
- * validation-inline : image
- * validation-inline : in
- * validation-inline : in_array
- * validation-inline : integer
- * validation-inline : ip
- * validation-inline : ipv4
- * validation-inline : ipv6
- * validation-inline : json
- * validation-inline : lt.numeric
- * validation-inline : lt.file
- * validation-inline : lt.string
- * validation-inline : lt.array
- * validation-inline : lte.numeric
- * validation-inline : lte.file
- * validation-inline : lte.string
- * validation-inline : lte.array
- * validation-inline : max.numeric
- * validation-inline : max.file
- * validation-inline : max.string
- * validation-inline : max.array
- * validation-inline : mimes
- * validation-inline : mimetypes
- * validation-inline : min.numeric
- * validation-inline : min.file
- * validation-inline : min.string
- * validation-inline : min.array
- * validation-inline : not_in
- * validation-inline : not_regex
- * validation-inline : numeric
- * validation-inline : password
- * validation-inline : present
- * validation-inline : regex
- * validation-inline : required
- * validation-inline : required_if
- * validation-inline : required_unless
- * validation-inline : required_with
- * validation-inline : required_with_all
- * validation-inline : required_without
- * validation-inline : required_without_all
- * validation-inline : same
- * validation-inline : size.numeric
- * validation-inline : size.file
- * validation-inline : size.string
- * validation-inline : size.array
- * validation-inline : starts_with
- * validation-inline : string
- * validation-inline : timezone
- * validation-inline : unique
- * validation-inline : uploaded
- * validation-inline : url
- * validation-inline : uuid
 
 [ [to top](#todo-list) ]
 </details>
@@ -1721,7 +1075,7 @@ into your web browser:
 ## cs
 
 <details>
-<summary>show<small> (all missing: 220, including not present: 110)</small></summary>
+<summary>show<small> (all missing: 131, including not present: 110)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -1854,95 +1208,6 @@ into your web browser:
  * json : You may delete any of your existing tokens if they are no longer needed. : not present
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
- * validation : password
- * validation-inline : accepted
- * validation-inline : active_url
- * validation-inline : after
- * validation-inline : after_or_equal
- * validation-inline : alpha
- * validation-inline : alpha_dash
- * validation-inline : alpha_num
- * validation-inline : array
- * validation-inline : before
- * validation-inline : before_or_equal
- * validation-inline : between.numeric
- * validation-inline : between.file
- * validation-inline : between.string
- * validation-inline : between.array
- * validation-inline : boolean
- * validation-inline : confirmed
- * validation-inline : date
- * validation-inline : date_equals
- * validation-inline : date_format
- * validation-inline : different
- * validation-inline : digits
- * validation-inline : digits_between
- * validation-inline : dimensions
- * validation-inline : distinct
- * validation-inline : email
- * validation-inline : ends_with
- * validation-inline : exists
- * validation-inline : file
- * validation-inline : filled
- * validation-inline : gt.numeric
- * validation-inline : gt.file
- * validation-inline : gt.string
- * validation-inline : gt.array
- * validation-inline : gte.numeric
- * validation-inline : gte.file
- * validation-inline : gte.string
- * validation-inline : gte.array
- * validation-inline : image
- * validation-inline : in
- * validation-inline : in_array
- * validation-inline : integer
- * validation-inline : ip
- * validation-inline : ipv4
- * validation-inline : ipv6
- * validation-inline : json
- * validation-inline : lt.numeric
- * validation-inline : lt.file
- * validation-inline : lt.string
- * validation-inline : lt.array
- * validation-inline : lte.numeric
- * validation-inline : lte.file
- * validation-inline : lte.string
- * validation-inline : lte.array
- * validation-inline : max.numeric
- * validation-inline : max.file
- * validation-inline : max.string
- * validation-inline : max.array
- * validation-inline : mimes
- * validation-inline : mimetypes
- * validation-inline : min.numeric
- * validation-inline : min.file
- * validation-inline : min.string
- * validation-inline : min.array
- * validation-inline : not_in
- * validation-inline : not_regex
- * validation-inline : numeric
- * validation-inline : password
- * validation-inline : present
- * validation-inline : regex
- * validation-inline : required
- * validation-inline : required_if
- * validation-inline : required_unless
- * validation-inline : required_with
- * validation-inline : required_with_all
- * validation-inline : required_without
- * validation-inline : required_without_all
- * validation-inline : same
- * validation-inline : size.numeric
- * validation-inline : size.file
- * validation-inline : size.string
- * validation-inline : size.array
- * validation-inline : starts_with
- * validation-inline : string
- * validation-inline : timezone
- * validation-inline : unique
- * validation-inline : uploaded
- * validation-inline : url
- * validation-inline : uuid
 
 [ [to top](#todo-list) ]
 </details>
@@ -1950,7 +1215,7 @@ into your web browser:
 ## cy
 
 <details>
-<summary>show<small> (all missing: 299, including not present: 110)</small></summary>
+<summary>show<small> (all missing: 173, including not present: 110)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -2126,132 +1391,6 @@ into your web browser:
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
  * json : Your email address is not verified.
- * auth : failed
- * auth : throttle
- * passwords : throttled
- * validation : after_or_equal
- * validation : before_or_equal
- * validation : date_equals
- * validation : dimensions
- * validation : distinct
- * validation : ends_with
- * validation : file
- * validation : gt.numeric
- * validation : gt.file
- * validation : gt.string
- * validation : gt.array
- * validation : gte.numeric
- * validation : gte.file
- * validation : gte.string
- * validation : gte.array
- * validation : in_array
- * validation : ipv4
- * validation : ipv6
- * validation : json
- * validation : lt.numeric
- * validation : lt.file
- * validation : lt.string
- * validation : lt.array
- * validation : lte.numeric
- * validation : lte.file
- * validation : lte.string
- * validation : lte.array
- * validation : not_regex
- * validation : password
- * validation : present
- * validation : required_unless
- * validation : starts_with
- * validation : string
- * validation : uploaded
- * validation : uuid
- * validation-inline : accepted
- * validation-inline : active_url
- * validation-inline : after
- * validation-inline : after_or_equal
- * validation-inline : alpha
- * validation-inline : alpha_dash
- * validation-inline : alpha_num
- * validation-inline : array
- * validation-inline : before
- * validation-inline : before_or_equal
- * validation-inline : between.numeric
- * validation-inline : between.file
- * validation-inline : between.string
- * validation-inline : between.array
- * validation-inline : boolean
- * validation-inline : confirmed
- * validation-inline : date
- * validation-inline : date_equals
- * validation-inline : date_format
- * validation-inline : different
- * validation-inline : digits
- * validation-inline : digits_between
- * validation-inline : dimensions
- * validation-inline : distinct
- * validation-inline : email
- * validation-inline : ends_with
- * validation-inline : exists
- * validation-inline : file
- * validation-inline : filled
- * validation-inline : gt.numeric
- * validation-inline : gt.file
- * validation-inline : gt.string
- * validation-inline : gt.array
- * validation-inline : gte.numeric
- * validation-inline : gte.file
- * validation-inline : gte.string
- * validation-inline : gte.array
- * validation-inline : image
- * validation-inline : in
- * validation-inline : in_array
- * validation-inline : integer
- * validation-inline : ip
- * validation-inline : ipv4
- * validation-inline : ipv6
- * validation-inline : json
- * validation-inline : lt.numeric
- * validation-inline : lt.file
- * validation-inline : lt.string
- * validation-inline : lt.array
- * validation-inline : lte.numeric
- * validation-inline : lte.file
- * validation-inline : lte.string
- * validation-inline : lte.array
- * validation-inline : max.numeric
- * validation-inline : max.file
- * validation-inline : max.string
- * validation-inline : max.array
- * validation-inline : mimes
- * validation-inline : mimetypes
- * validation-inline : min.numeric
- * validation-inline : min.file
- * validation-inline : min.string
- * validation-inline : min.array
- * validation-inline : not_in
- * validation-inline : not_regex
- * validation-inline : numeric
- * validation-inline : password
- * validation-inline : present
- * validation-inline : regex
- * validation-inline : required
- * validation-inline : required_if
- * validation-inline : required_unless
- * validation-inline : required_with
- * validation-inline : required_with_all
- * validation-inline : required_without
- * validation-inline : required_without_all
- * validation-inline : same
- * validation-inline : size.numeric
- * validation-inline : size.file
- * validation-inline : size.string
- * validation-inline : size.array
- * validation-inline : starts_with
- * validation-inline : string
- * validation-inline : timezone
- * validation-inline : unique
- * validation-inline : uploaded
- * validation-inline : url
- * validation-inline : uuid
 
 [ [to top](#todo-list) ]
 </details>
@@ -2259,7 +1398,7 @@ into your web browser:
 ## da
 
 <details>
-<summary>show<small> (all missing: 220, including not present: 110)</small></summary>
+<summary>show<small> (all missing: 130, including not present: 110)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -2391,96 +1530,6 @@ into your web browser:
  * json : You may delete any of your existing tokens if they are no longer needed. : not present
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
- * validation : ends_with
- * validation : password
- * validation-inline : accepted
- * validation-inline : active_url
- * validation-inline : after
- * validation-inline : after_or_equal
- * validation-inline : alpha
- * validation-inline : alpha_dash
- * validation-inline : alpha_num
- * validation-inline : array
- * validation-inline : before
- * validation-inline : before_or_equal
- * validation-inline : between.numeric
- * validation-inline : between.file
- * validation-inline : between.string
- * validation-inline : between.array
- * validation-inline : boolean
- * validation-inline : confirmed
- * validation-inline : date
- * validation-inline : date_equals
- * validation-inline : date_format
- * validation-inline : different
- * validation-inline : digits
- * validation-inline : digits_between
- * validation-inline : dimensions
- * validation-inline : distinct
- * validation-inline : email
- * validation-inline : ends_with
- * validation-inline : exists
- * validation-inline : file
- * validation-inline : filled
- * validation-inline : gt.numeric
- * validation-inline : gt.file
- * validation-inline : gt.string
- * validation-inline : gt.array
- * validation-inline : gte.numeric
- * validation-inline : gte.file
- * validation-inline : gte.string
- * validation-inline : gte.array
- * validation-inline : image
- * validation-inline : in
- * validation-inline : in_array
- * validation-inline : integer
- * validation-inline : ip
- * validation-inline : ipv4
- * validation-inline : ipv6
- * validation-inline : json
- * validation-inline : lt.numeric
- * validation-inline : lt.file
- * validation-inline : lt.string
- * validation-inline : lt.array
- * validation-inline : lte.numeric
- * validation-inline : lte.file
- * validation-inline : lte.string
- * validation-inline : lte.array
- * validation-inline : max.numeric
- * validation-inline : max.file
- * validation-inline : max.string
- * validation-inline : max.array
- * validation-inline : mimes
- * validation-inline : mimetypes
- * validation-inline : min.numeric
- * validation-inline : min.file
- * validation-inline : min.string
- * validation-inline : min.array
- * validation-inline : not_in
- * validation-inline : not_regex
- * validation-inline : numeric
- * validation-inline : password
- * validation-inline : present
- * validation-inline : regex
- * validation-inline : required
- * validation-inline : required_if
- * validation-inline : required_unless
- * validation-inline : required_with
- * validation-inline : required_with_all
- * validation-inline : required_without
- * validation-inline : required_without_all
- * validation-inline : same
- * validation-inline : size.numeric
- * validation-inline : size.file
- * validation-inline : size.string
- * validation-inline : size.array
- * validation-inline : starts_with
- * validation-inline : string
- * validation-inline : timezone
- * validation-inline : unique
- * validation-inline : uploaded
- * validation-inline : url
- * validation-inline : uuid
 
 [ [to top](#todo-list) ]
 </details>
@@ -2747,7 +1796,7 @@ into your web browser:
 ## el
 
 <details>
-<summary>show<small> (all missing: 211, including not present: 112)</small></summary>
+<summary>show<small> (all missing: 122, including not present: 112)</small></summary>
 
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
  * json : Add additional security to your account using two factor authentication. : not present
@@ -2871,95 +1920,6 @@ into your web browser:
  * json : You may delete any of your existing tokens if they are no longer needed. : not present
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
- * passwords : throttled
- * validation-inline : accepted
- * validation-inline : active_url
- * validation-inline : after
- * validation-inline : after_or_equal
- * validation-inline : alpha
- * validation-inline : alpha_dash
- * validation-inline : alpha_num
- * validation-inline : array
- * validation-inline : before
- * validation-inline : before_or_equal
- * validation-inline : between.numeric
- * validation-inline : between.file
- * validation-inline : between.string
- * validation-inline : between.array
- * validation-inline : boolean
- * validation-inline : confirmed
- * validation-inline : date
- * validation-inline : date_equals
- * validation-inline : date_format
- * validation-inline : different
- * validation-inline : digits
- * validation-inline : digits_between
- * validation-inline : dimensions
- * validation-inline : distinct
- * validation-inline : email
- * validation-inline : ends_with
- * validation-inline : exists
- * validation-inline : file
- * validation-inline : filled
- * validation-inline : gt.numeric
- * validation-inline : gt.file
- * validation-inline : gt.string
- * validation-inline : gt.array
- * validation-inline : gte.numeric
- * validation-inline : gte.file
- * validation-inline : gte.string
- * validation-inline : gte.array
- * validation-inline : image
- * validation-inline : in
- * validation-inline : in_array
- * validation-inline : integer
- * validation-inline : ip
- * validation-inline : ipv4
- * validation-inline : ipv6
- * validation-inline : json
- * validation-inline : lt.numeric
- * validation-inline : lt.file
- * validation-inline : lt.string
- * validation-inline : lt.array
- * validation-inline : lte.numeric
- * validation-inline : lte.file
- * validation-inline : lte.string
- * validation-inline : lte.array
- * validation-inline : max.numeric
- * validation-inline : max.file
- * validation-inline : max.string
- * validation-inline : max.array
- * validation-inline : mimes
- * validation-inline : mimetypes
- * validation-inline : min.numeric
- * validation-inline : min.file
- * validation-inline : min.string
- * validation-inline : min.array
- * validation-inline : not_in
- * validation-inline : not_regex
- * validation-inline : numeric
- * validation-inline : password
- * validation-inline : present
- * validation-inline : regex
- * validation-inline : required
- * validation-inline : required_if
- * validation-inline : required_unless
- * validation-inline : required_with
- * validation-inline : required_with_all
- * validation-inline : required_without
- * validation-inline : required_without_all
- * validation-inline : same
- * validation-inline : size.numeric
- * validation-inline : size.file
- * validation-inline : size.string
- * validation-inline : size.array
- * validation-inline : starts_with
- * validation-inline : string
- * validation-inline : timezone
- * validation-inline : unique
- * validation-inline : uploaded
- * validation-inline : url
- * validation-inline : uuid
 
 [ [to top](#todo-list) ]
 </details>
@@ -2973,7 +1933,7 @@ All lines are translated 😊
 ## et
 
 <details>
-<summary>show<small> (all missing: 264, including not present: 110)</small></summary>
+<summary>show<small> (all missing: 173, including not present: 110)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -3149,97 +2109,6 @@ into your web browser:
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
  * json : Your email address is not verified.
- * passwords : throttled
- * validation : ends_with
- * validation : password
- * validation-inline : accepted
- * validation-inline : active_url
- * validation-inline : after
- * validation-inline : after_or_equal
- * validation-inline : alpha
- * validation-inline : alpha_dash
- * validation-inline : alpha_num
- * validation-inline : array
- * validation-inline : before
- * validation-inline : before_or_equal
- * validation-inline : between.numeric
- * validation-inline : between.file
- * validation-inline : between.string
- * validation-inline : between.array
- * validation-inline : boolean
- * validation-inline : confirmed
- * validation-inline : date
- * validation-inline : date_equals
- * validation-inline : date_format
- * validation-inline : different
- * validation-inline : digits
- * validation-inline : digits_between
- * validation-inline : dimensions
- * validation-inline : distinct
- * validation-inline : email
- * validation-inline : ends_with
- * validation-inline : exists
- * validation-inline : file
- * validation-inline : filled
- * validation-inline : gt.numeric
- * validation-inline : gt.file
- * validation-inline : gt.string
- * validation-inline : gt.array
- * validation-inline : gte.numeric
- * validation-inline : gte.file
- * validation-inline : gte.string
- * validation-inline : gte.array
- * validation-inline : image
- * validation-inline : in
- * validation-inline : in_array
- * validation-inline : integer
- * validation-inline : ip
- * validation-inline : ipv4
- * validation-inline : ipv6
- * validation-inline : json
- * validation-inline : lt.numeric
- * validation-inline : lt.file
- * validation-inline : lt.string
- * validation-inline : lt.array
- * validation-inline : lte.numeric
- * validation-inline : lte.file
- * validation-inline : lte.string
- * validation-inline : lte.array
- * validation-inline : max.numeric
- * validation-inline : max.file
- * validation-inline : max.string
- * validation-inline : max.array
- * validation-inline : mimes
- * validation-inline : mimetypes
- * validation-inline : min.numeric
- * validation-inline : min.file
- * validation-inline : min.string
- * validation-inline : min.array
- * validation-inline : not_in
- * validation-inline : not_regex
- * validation-inline : numeric
- * validation-inline : password
- * validation-inline : present
- * validation-inline : regex
- * validation-inline : required
- * validation-inline : required_if
- * validation-inline : required_unless
- * validation-inline : required_with
- * validation-inline : required_with_all
- * validation-inline : required_without
- * validation-inline : required_without_all
- * validation-inline : same
- * validation-inline : size.numeric
- * validation-inline : size.file
- * validation-inline : size.string
- * validation-inline : size.array
- * validation-inline : starts_with
- * validation-inline : string
- * validation-inline : timezone
- * validation-inline : unique
- * validation-inline : uploaded
- * validation-inline : url
- * validation-inline : uuid
 
 [ [to top](#todo-list) ]
 </details>
@@ -3247,7 +2116,7 @@ into your web browser:
 ## eu
 
 <details>
-<summary>show<small> (all missing: 229, including not present: 121)</small></summary>
+<summary>show<small> (all missing: 138, including not present: 121)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -3387,97 +2256,6 @@ into your web browser:
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
  * json : Your email address is not verified. : not present
- * passwords : throttled
- * validation : date_equals
- * validation : password
- * validation-inline : accepted
- * validation-inline : active_url
- * validation-inline : after
- * validation-inline : after_or_equal
- * validation-inline : alpha
- * validation-inline : alpha_dash
- * validation-inline : alpha_num
- * validation-inline : array
- * validation-inline : before
- * validation-inline : before_or_equal
- * validation-inline : between.numeric
- * validation-inline : between.file
- * validation-inline : between.string
- * validation-inline : between.array
- * validation-inline : boolean
- * validation-inline : confirmed
- * validation-inline : date
- * validation-inline : date_equals
- * validation-inline : date_format
- * validation-inline : different
- * validation-inline : digits
- * validation-inline : digits_between
- * validation-inline : dimensions
- * validation-inline : distinct
- * validation-inline : email
- * validation-inline : ends_with
- * validation-inline : exists
- * validation-inline : file
- * validation-inline : filled
- * validation-inline : gt.numeric
- * validation-inline : gt.file
- * validation-inline : gt.string
- * validation-inline : gt.array
- * validation-inline : gte.numeric
- * validation-inline : gte.file
- * validation-inline : gte.string
- * validation-inline : gte.array
- * validation-inline : image
- * validation-inline : in
- * validation-inline : in_array
- * validation-inline : integer
- * validation-inline : ip
- * validation-inline : ipv4
- * validation-inline : ipv6
- * validation-inline : json
- * validation-inline : lt.numeric
- * validation-inline : lt.file
- * validation-inline : lt.string
- * validation-inline : lt.array
- * validation-inline : lte.numeric
- * validation-inline : lte.file
- * validation-inline : lte.string
- * validation-inline : lte.array
- * validation-inline : max.numeric
- * validation-inline : max.file
- * validation-inline : max.string
- * validation-inline : max.array
- * validation-inline : mimes
- * validation-inline : mimetypes
- * validation-inline : min.numeric
- * validation-inline : min.file
- * validation-inline : min.string
- * validation-inline : min.array
- * validation-inline : not_in
- * validation-inline : not_regex
- * validation-inline : numeric
- * validation-inline : password
- * validation-inline : present
- * validation-inline : regex
- * validation-inline : required
- * validation-inline : required_if
- * validation-inline : required_unless
- * validation-inline : required_with
- * validation-inline : required_with_all
- * validation-inline : required_without
- * validation-inline : required_without_all
- * validation-inline : same
- * validation-inline : size.numeric
- * validation-inline : size.file
- * validation-inline : size.string
- * validation-inline : size.array
- * validation-inline : starts_with
- * validation-inline : string
- * validation-inline : timezone
- * validation-inline : unique
- * validation-inline : uploaded
- * validation-inline : url
- * validation-inline : uuid
 
 [ [to top](#todo-list) ]
 </details>
@@ -3631,7 +2409,7 @@ into your web browser:
 ## fi
 
 <details>
-<summary>show<small> (all missing: 255, including not present: 148)</small></summary>
+<summary>show<small> (all missing: 165, including not present: 148)</small></summary>
 
  * json : A fresh verification link has been sent to your email address. : not present
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -3798,96 +2576,6 @@ into your web browser:
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
  * json : Your email address is not verified. : not present
- * validation : ends_with
- * validation : password
- * validation-inline : accepted
- * validation-inline : active_url
- * validation-inline : after
- * validation-inline : after_or_equal
- * validation-inline : alpha
- * validation-inline : alpha_dash
- * validation-inline : alpha_num
- * validation-inline : array
- * validation-inline : before
- * validation-inline : before_or_equal
- * validation-inline : between.numeric
- * validation-inline : between.file
- * validation-inline : between.string
- * validation-inline : between.array
- * validation-inline : boolean
- * validation-inline : confirmed
- * validation-inline : date
- * validation-inline : date_equals
- * validation-inline : date_format
- * validation-inline : different
- * validation-inline : digits
- * validation-inline : digits_between
- * validation-inline : dimensions
- * validation-inline : distinct
- * validation-inline : email
- * validation-inline : ends_with
- * validation-inline : exists
- * validation-inline : file
- * validation-inline : filled
- * validation-inline : gt.numeric
- * validation-inline : gt.file
- * validation-inline : gt.string
- * validation-inline : gt.array
- * validation-inline : gte.numeric
- * validation-inline : gte.file
- * validation-inline : gte.string
- * validation-inline : gte.array
- * validation-inline : image
- * validation-inline : in
- * validation-inline : in_array
- * validation-inline : integer
- * validation-inline : ip
- * validation-inline : ipv4
- * validation-inline : ipv6
- * validation-inline : json
- * validation-inline : lt.numeric
- * validation-inline : lt.file
- * validation-inline : lt.string
- * validation-inline : lt.array
- * validation-inline : lte.numeric
- * validation-inline : lte.file
- * validation-inline : lte.string
- * validation-inline : lte.array
- * validation-inline : max.numeric
- * validation-inline : max.file
- * validation-inline : max.string
- * validation-inline : max.array
- * validation-inline : mimes
- * validation-inline : mimetypes
- * validation-inline : min.numeric
- * validation-inline : min.file
- * validation-inline : min.string
- * validation-inline : min.array
- * validation-inline : not_in
- * validation-inline : not_regex
- * validation-inline : numeric
- * validation-inline : password
- * validation-inline : present
- * validation-inline : regex
- * validation-inline : required
- * validation-inline : required_if
- * validation-inline : required_unless
- * validation-inline : required_with
- * validation-inline : required_with_all
- * validation-inline : required_without
- * validation-inline : required_without_all
- * validation-inline : same
- * validation-inline : size.numeric
- * validation-inline : size.file
- * validation-inline : size.string
- * validation-inline : size.array
- * validation-inline : starts_with
- * validation-inline : string
- * validation-inline : timezone
- * validation-inline : unique
- * validation-inline : uploaded
- * validation-inline : url
- * validation-inline : uuid
 
 [ [to top](#todo-list) ]
 </details>
@@ -3895,7 +2583,7 @@ into your web browser:
 ## fil
 
 <details>
-<summary>show<small> (all missing: 272, including not present: 173)</small></summary>
+<summary>show<small> (all missing: 173, including not present: 173)</small></summary>
 
  * json : A fresh verification link has been sent to your email address. : not present
  * json : A new verification link has been sent to the email address you provided during registration. : not present
@@ -4071,105 +2759,6 @@ into your web browser: : not present
  * json : You may not delete your personal team. : not present
  * json : You may not leave a team that you created. : not present
  * json : Your email address is not verified. : not present
- * auth : failed
- * auth : throttle
- * pagination : previous
- * pagination : next
- * passwords : reset
- * passwords : sent
- * passwords : throttled
- * passwords : token
- * passwords : user
- * validation : ends_with
- * validation : password
- * validation-inline : accepted
- * validation-inline : active_url
- * validation-inline : after
- * validation-inline : after_or_equal
- * validation-inline : alpha
- * validation-inline : alpha_dash
- * validation-inline : alpha_num
- * validation-inline : array
- * validation-inline : before
- * validation-inline : before_or_equal
- * validation-inline : between.numeric
- * validation-inline : between.file
- * validation-inline : between.string
- * validation-inline : between.array
- * validation-inline : boolean
- * validation-inline : confirmed
- * validation-inline : date
- * validation-inline : date_equals
- * validation-inline : date_format
- * validation-inline : different
- * validation-inline : digits
- * validation-inline : digits_between
- * validation-inline : dimensions
- * validation-inline : distinct
- * validation-inline : email
- * validation-inline : ends_with
- * validation-inline : exists
- * validation-inline : file
- * validation-inline : filled
- * validation-inline : gt.numeric
- * validation-inline : gt.file
- * validation-inline : gt.string
- * validation-inline : gt.array
- * validation-inline : gte.numeric
- * validation-inline : gte.file
- * validation-inline : gte.string
- * validation-inline : gte.array
- * validation-inline : image
- * validation-inline : in
- * validation-inline : in_array
- * validation-inline : integer
- * validation-inline : ip
- * validation-inline : ipv4
- * validation-inline : ipv6
- * validation-inline : json
- * validation-inline : lt.numeric
- * validation-inline : lt.file
- * validation-inline : lt.string
- * validation-inline : lt.array
- * validation-inline : lte.numeric
- * validation-inline : lte.file
- * validation-inline : lte.string
- * validation-inline : lte.array
- * validation-inline : max.numeric
- * validation-inline : max.file
- * validation-inline : max.string
- * validation-inline : max.array
- * validation-inline : mimes
- * validation-inline : mimetypes
- * validation-inline : min.numeric
- * validation-inline : min.file
- * validation-inline : min.string
- * validation-inline : min.array
- * validation-inline : not_in
- * validation-inline : not_regex
- * validation-inline : numeric
- * validation-inline : password
- * validation-inline : present
- * validation-inline : regex
- * validation-inline : required
- * validation-inline : required_if
- * validation-inline : required_unless
- * validation-inline : required_with
- * validation-inline : required_with_all
- * validation-inline : required_without
- * validation-inline : required_without_all
- * validation-inline : same
- * validation-inline : size.numeric
- * validation-inline : size.file
- * validation-inline : size.string
- * validation-inline : size.array
- * validation-inline : starts_with
- * validation-inline : string
- * validation-inline : timezone
- * validation-inline : unique
- * validation-inline : uploaded
- * validation-inline : url
- * validation-inline : uuid
 
 [ [to top](#todo-list) ]
 </details>
@@ -4189,7 +2778,7 @@ into your web browser: : not present
 ## gl
 
 <details>
-<summary>show<small> (all missing: 227, including not present: 120)</small></summary>
+<summary>show<small> (all missing: 137, including not present: 120)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -4328,96 +2917,6 @@ into your web browser: : not present
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
  * json : Your email address is not verified. : not present
- * passwords : throttled
- * validation : password
- * validation-inline : accepted
- * validation-inline : active_url
- * validation-inline : after
- * validation-inline : after_or_equal
- * validation-inline : alpha
- * validation-inline : alpha_dash
- * validation-inline : alpha_num
- * validation-inline : array
- * validation-inline : before
- * validation-inline : before_or_equal
- * validation-inline : between.numeric
- * validation-inline : between.file
- * validation-inline : between.string
- * validation-inline : between.array
- * validation-inline : boolean
- * validation-inline : confirmed
- * validation-inline : date
- * validation-inline : date_equals
- * validation-inline : date_format
- * validation-inline : different
- * validation-inline : digits
- * validation-inline : digits_between
- * validation-inline : dimensions
- * validation-inline : distinct
- * validation-inline : email
- * validation-inline : ends_with
- * validation-inline : exists
- * validation-inline : file
- * validation-inline : filled
- * validation-inline : gt.numeric
- * validation-inline : gt.file
- * validation-inline : gt.string
- * validation-inline : gt.array
- * validation-inline : gte.numeric
- * validation-inline : gte.file
- * validation-inline : gte.string
- * validation-inline : gte.array
- * validation-inline : image
- * validation-inline : in
- * validation-inline : in_array
- * validation-inline : integer
- * validation-inline : ip
- * validation-inline : ipv4
- * validation-inline : ipv6
- * validation-inline : json
- * validation-inline : lt.numeric
- * validation-inline : lt.file
- * validation-inline : lt.string
- * validation-inline : lt.array
- * validation-inline : lte.numeric
- * validation-inline : lte.file
- * validation-inline : lte.string
- * validation-inline : lte.array
- * validation-inline : max.numeric
- * validation-inline : max.file
- * validation-inline : max.string
- * validation-inline : max.array
- * validation-inline : mimes
- * validation-inline : mimetypes
- * validation-inline : min.numeric
- * validation-inline : min.file
- * validation-inline : min.string
- * validation-inline : min.array
- * validation-inline : not_in
- * validation-inline : not_regex
- * validation-inline : numeric
- * validation-inline : password
- * validation-inline : present
- * validation-inline : regex
- * validation-inline : required
- * validation-inline : required_if
- * validation-inline : required_unless
- * validation-inline : required_with
- * validation-inline : required_with_all
- * validation-inline : required_without
- * validation-inline : required_without_all
- * validation-inline : same
- * validation-inline : size.numeric
- * validation-inline : size.file
- * validation-inline : size.string
- * validation-inline : size.array
- * validation-inline : starts_with
- * validation-inline : string
- * validation-inline : timezone
- * validation-inline : unique
- * validation-inline : uploaded
- * validation-inline : url
- * validation-inline : uuid
 
 [ [to top](#todo-list) ]
 </details>
@@ -4425,7 +2924,7 @@ into your web browser: : not present
 ## he
 
 <details>
-<summary>show<small> (all missing: 220, including not present: 114)</small></summary>
+<summary>show<small> (all missing: 131, including not present: 114)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -4558,95 +3057,6 @@ into your web browser: : not present
  * json : You may delete any of your existing tokens if they are no longer needed. : not present
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
- * validation : password
- * validation-inline : accepted
- * validation-inline : active_url
- * validation-inline : after
- * validation-inline : after_or_equal
- * validation-inline : alpha
- * validation-inline : alpha_dash
- * validation-inline : alpha_num
- * validation-inline : array
- * validation-inline : before
- * validation-inline : before_or_equal
- * validation-inline : between.numeric
- * validation-inline : between.file
- * validation-inline : between.string
- * validation-inline : between.array
- * validation-inline : boolean
- * validation-inline : confirmed
- * validation-inline : date
- * validation-inline : date_equals
- * validation-inline : date_format
- * validation-inline : different
- * validation-inline : digits
- * validation-inline : digits_between
- * validation-inline : dimensions
- * validation-inline : distinct
- * validation-inline : email
- * validation-inline : ends_with
- * validation-inline : exists
- * validation-inline : file
- * validation-inline : filled
- * validation-inline : gt.numeric
- * validation-inline : gt.file
- * validation-inline : gt.string
- * validation-inline : gt.array
- * validation-inline : gte.numeric
- * validation-inline : gte.file
- * validation-inline : gte.string
- * validation-inline : gte.array
- * validation-inline : image
- * validation-inline : in
- * validation-inline : in_array
- * validation-inline : integer
- * validation-inline : ip
- * validation-inline : ipv4
- * validation-inline : ipv6
- * validation-inline : json
- * validation-inline : lt.numeric
- * validation-inline : lt.file
- * validation-inline : lt.string
- * validation-inline : lt.array
- * validation-inline : lte.numeric
- * validation-inline : lte.file
- * validation-inline : lte.string
- * validation-inline : lte.array
- * validation-inline : max.numeric
- * validation-inline : max.file
- * validation-inline : max.string
- * validation-inline : max.array
- * validation-inline : mimes
- * validation-inline : mimetypes
- * validation-inline : min.numeric
- * validation-inline : min.file
- * validation-inline : min.string
- * validation-inline : min.array
- * validation-inline : not_in
- * validation-inline : not_regex
- * validation-inline : numeric
- * validation-inline : password
- * validation-inline : present
- * validation-inline : regex
- * validation-inline : required
- * validation-inline : required_if
- * validation-inline : required_unless
- * validation-inline : required_with
- * validation-inline : required_with_all
- * validation-inline : required_without
- * validation-inline : required_without_all
- * validation-inline : same
- * validation-inline : size.numeric
- * validation-inline : size.file
- * validation-inline : size.string
- * validation-inline : size.array
- * validation-inline : starts_with
- * validation-inline : string
- * validation-inline : timezone
- * validation-inline : unique
- * validation-inline : uploaded
- * validation-inline : url
- * validation-inline : uuid
 
 [ [to top](#todo-list) ]
 </details>
@@ -4654,7 +3064,7 @@ into your web browser: : not present
 ## hi
 
 <details>
-<summary>show<small> (all missing: 276, including not present: 110)</small></summary>
+<summary>show<small> (all missing: 173, including not present: 110)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -4830,109 +3240,6 @@ into your web browser:
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
  * json : Your email address is not verified.
- * passwords : throttled
- * validation : ends_with
- * validation : gte.numeric
- * validation : gte.file
- * validation : gte.string
- * validation : gte.array
- * validation : lt.numeric
- * validation : lt.file
- * validation : lt.string
- * validation : lt.array
- * validation : lte.numeric
- * validation : lte.file
- * validation : lte.string
- * validation : lte.array
- * validation : password
- * validation-inline : accepted
- * validation-inline : active_url
- * validation-inline : after
- * validation-inline : after_or_equal
- * validation-inline : alpha
- * validation-inline : alpha_dash
- * validation-inline : alpha_num
- * validation-inline : array
- * validation-inline : before
- * validation-inline : before_or_equal
- * validation-inline : between.numeric
- * validation-inline : between.file
- * validation-inline : between.string
- * validation-inline : between.array
- * validation-inline : boolean
- * validation-inline : confirmed
- * validation-inline : date
- * validation-inline : date_equals
- * validation-inline : date_format
- * validation-inline : different
- * validation-inline : digits
- * validation-inline : digits_between
- * validation-inline : dimensions
- * validation-inline : distinct
- * validation-inline : email
- * validation-inline : ends_with
- * validation-inline : exists
- * validation-inline : file
- * validation-inline : filled
- * validation-inline : gt.numeric
- * validation-inline : gt.file
- * validation-inline : gt.string
- * validation-inline : gt.array
- * validation-inline : gte.numeric
- * validation-inline : gte.file
- * validation-inline : gte.string
- * validation-inline : gte.array
- * validation-inline : image
- * validation-inline : in
- * validation-inline : in_array
- * validation-inline : integer
- * validation-inline : ip
- * validation-inline : ipv4
- * validation-inline : ipv6
- * validation-inline : json
- * validation-inline : lt.numeric
- * validation-inline : lt.file
- * validation-inline : lt.string
- * validation-inline : lt.array
- * validation-inline : lte.numeric
- * validation-inline : lte.file
- * validation-inline : lte.string
- * validation-inline : lte.array
- * validation-inline : max.numeric
- * validation-inline : max.file
- * validation-inline : max.string
- * validation-inline : max.array
- * validation-inline : mimes
- * validation-inline : mimetypes
- * validation-inline : min.numeric
- * validation-inline : min.file
- * validation-inline : min.string
- * validation-inline : min.array
- * validation-inline : not_in
- * validation-inline : not_regex
- * validation-inline : numeric
- * validation-inline : password
- * validation-inline : present
- * validation-inline : regex
- * validation-inline : required
- * validation-inline : required_if
- * validation-inline : required_unless
- * validation-inline : required_with
- * validation-inline : required_with_all
- * validation-inline : required_without
- * validation-inline : required_without_all
- * validation-inline : same
- * validation-inline : size.numeric
- * validation-inline : size.file
- * validation-inline : size.string
- * validation-inline : size.array
- * validation-inline : starts_with
- * validation-inline : string
- * validation-inline : timezone
- * validation-inline : unique
- * validation-inline : uploaded
- * validation-inline : url
- * validation-inline : uuid
 
 [ [to top](#todo-list) ]
 </details>
@@ -4940,7 +3247,7 @@ into your web browser:
 ## hr
 
 <details>
-<summary>show<small> (all missing: 249, including not present: 142)</small></summary>
+<summary>show<small> (all missing: 159, including not present: 142)</small></summary>
 
  * json : A fresh verification link has been sent to your email address. : not present
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -5102,96 +3409,6 @@ into your web browser: : not present
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
  * json : Your email address is not verified. : not present
- * validation : ends_with
- * validation : password
- * validation-inline : accepted
- * validation-inline : active_url
- * validation-inline : after
- * validation-inline : after_or_equal
- * validation-inline : alpha
- * validation-inline : alpha_dash
- * validation-inline : alpha_num
- * validation-inline : array
- * validation-inline : before
- * validation-inline : before_or_equal
- * validation-inline : between.numeric
- * validation-inline : between.file
- * validation-inline : between.string
- * validation-inline : between.array
- * validation-inline : boolean
- * validation-inline : confirmed
- * validation-inline : date
- * validation-inline : date_equals
- * validation-inline : date_format
- * validation-inline : different
- * validation-inline : digits
- * validation-inline : digits_between
- * validation-inline : dimensions
- * validation-inline : distinct
- * validation-inline : email
- * validation-inline : ends_with
- * validation-inline : exists
- * validation-inline : file
- * validation-inline : filled
- * validation-inline : gt.numeric
- * validation-inline : gt.file
- * validation-inline : gt.string
- * validation-inline : gt.array
- * validation-inline : gte.numeric
- * validation-inline : gte.file
- * validation-inline : gte.string
- * validation-inline : gte.array
- * validation-inline : image
- * validation-inline : in
- * validation-inline : in_array
- * validation-inline : integer
- * validation-inline : ip
- * validation-inline : ipv4
- * validation-inline : ipv6
- * validation-inline : json
- * validation-inline : lt.numeric
- * validation-inline : lt.file
- * validation-inline : lt.string
- * validation-inline : lt.array
- * validation-inline : lte.numeric
- * validation-inline : lte.file
- * validation-inline : lte.string
- * validation-inline : lte.array
- * validation-inline : max.numeric
- * validation-inline : max.file
- * validation-inline : max.string
- * validation-inline : max.array
- * validation-inline : mimes
- * validation-inline : mimetypes
- * validation-inline : min.numeric
- * validation-inline : min.file
- * validation-inline : min.string
- * validation-inline : min.array
- * validation-inline : not_in
- * validation-inline : not_regex
- * validation-inline : numeric
- * validation-inline : password
- * validation-inline : present
- * validation-inline : regex
- * validation-inline : required
- * validation-inline : required_if
- * validation-inline : required_unless
- * validation-inline : required_with
- * validation-inline : required_with_all
- * validation-inline : required_without
- * validation-inline : required_without_all
- * validation-inline : same
- * validation-inline : size.numeric
- * validation-inline : size.file
- * validation-inline : size.string
- * validation-inline : size.array
- * validation-inline : starts_with
- * validation-inline : string
- * validation-inline : timezone
- * validation-inline : unique
- * validation-inline : uploaded
- * validation-inline : url
- * validation-inline : uuid
 
 [ [to top](#todo-list) ]
 </details>
@@ -5199,7 +3416,7 @@ into your web browser: : not present
 ## hu
 
 <details>
-<summary>show<small> (all missing: 217, including not present: 112)</small></summary>
+<summary>show<small> (all missing: 129, including not present: 112)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -5330,94 +3547,6 @@ into your web browser: : not present
  * json : You may delete any of your existing tokens if they are no longer needed. : not present
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
- * validation-inline : accepted
- * validation-inline : active_url
- * validation-inline : after
- * validation-inline : after_or_equal
- * validation-inline : alpha
- * validation-inline : alpha_dash
- * validation-inline : alpha_num
- * validation-inline : array
- * validation-inline : before
- * validation-inline : before_or_equal
- * validation-inline : between.numeric
- * validation-inline : between.file
- * validation-inline : between.string
- * validation-inline : between.array
- * validation-inline : boolean
- * validation-inline : confirmed
- * validation-inline : date
- * validation-inline : date_equals
- * validation-inline : date_format
- * validation-inline : different
- * validation-inline : digits
- * validation-inline : digits_between
- * validation-inline : dimensions
- * validation-inline : distinct
- * validation-inline : email
- * validation-inline : ends_with
- * validation-inline : exists
- * validation-inline : file
- * validation-inline : filled
- * validation-inline : gt.numeric
- * validation-inline : gt.file
- * validation-inline : gt.string
- * validation-inline : gt.array
- * validation-inline : gte.numeric
- * validation-inline : gte.file
- * validation-inline : gte.string
- * validation-inline : gte.array
- * validation-inline : image
- * validation-inline : in
- * validation-inline : in_array
- * validation-inline : integer
- * validation-inline : ip
- * validation-inline : ipv4
- * validation-inline : ipv6
- * validation-inline : json
- * validation-inline : lt.numeric
- * validation-inline : lt.file
- * validation-inline : lt.string
- * validation-inline : lt.array
- * validation-inline : lte.numeric
- * validation-inline : lte.file
- * validation-inline : lte.string
- * validation-inline : lte.array
- * validation-inline : max.numeric
- * validation-inline : max.file
- * validation-inline : max.string
- * validation-inline : max.array
- * validation-inline : mimes
- * validation-inline : mimetypes
- * validation-inline : min.numeric
- * validation-inline : min.file
- * validation-inline : min.string
- * validation-inline : min.array
- * validation-inline : not_in
- * validation-inline : not_regex
- * validation-inline : numeric
- * validation-inline : password
- * validation-inline : present
- * validation-inline : regex
- * validation-inline : required
- * validation-inline : required_if
- * validation-inline : required_unless
- * validation-inline : required_with
- * validation-inline : required_with_all
- * validation-inline : required_without
- * validation-inline : required_without_all
- * validation-inline : same
- * validation-inline : size.numeric
- * validation-inline : size.file
- * validation-inline : size.string
- * validation-inline : size.array
- * validation-inline : starts_with
- * validation-inline : string
- * validation-inline : timezone
- * validation-inline : unique
- * validation-inline : uploaded
- * validation-inline : url
- * validation-inline : uuid
 
 [ [to top](#todo-list) ]
 </details>
@@ -5425,7 +3554,7 @@ into your web browser: : not present
 ## hy
 
 <details>
-<summary>show<small> (all missing: 218, including not present: 113)</small></summary>
+<summary>show<small> (all missing: 130, including not present: 113)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -5558,94 +3687,6 @@ into your web browser: : not present
  * json : You may delete any of your existing tokens if they are no longer needed. : not present
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
- * validation-inline : accepted
- * validation-inline : active_url
- * validation-inline : after
- * validation-inline : after_or_equal
- * validation-inline : alpha
- * validation-inline : alpha_dash
- * validation-inline : alpha_num
- * validation-inline : array
- * validation-inline : before
- * validation-inline : before_or_equal
- * validation-inline : between.numeric
- * validation-inline : between.file
- * validation-inline : between.string
- * validation-inline : between.array
- * validation-inline : boolean
- * validation-inline : confirmed
- * validation-inline : date
- * validation-inline : date_equals
- * validation-inline : date_format
- * validation-inline : different
- * validation-inline : digits
- * validation-inline : digits_between
- * validation-inline : dimensions
- * validation-inline : distinct
- * validation-inline : email
- * validation-inline : ends_with
- * validation-inline : exists
- * validation-inline : file
- * validation-inline : filled
- * validation-inline : gt.numeric
- * validation-inline : gt.file
- * validation-inline : gt.string
- * validation-inline : gt.array
- * validation-inline : gte.numeric
- * validation-inline : gte.file
- * validation-inline : gte.string
- * validation-inline : gte.array
- * validation-inline : image
- * validation-inline : in
- * validation-inline : in_array
- * validation-inline : integer
- * validation-inline : ip
- * validation-inline : ipv4
- * validation-inline : ipv6
- * validation-inline : json
- * validation-inline : lt.numeric
- * validation-inline : lt.file
- * validation-inline : lt.string
- * validation-inline : lt.array
- * validation-inline : lte.numeric
- * validation-inline : lte.file
- * validation-inline : lte.string
- * validation-inline : lte.array
- * validation-inline : max.numeric
- * validation-inline : max.file
- * validation-inline : max.string
- * validation-inline : max.array
- * validation-inline : mimes
- * validation-inline : mimetypes
- * validation-inline : min.numeric
- * validation-inline : min.file
- * validation-inline : min.string
- * validation-inline : min.array
- * validation-inline : not_in
- * validation-inline : not_regex
- * validation-inline : numeric
- * validation-inline : password
- * validation-inline : present
- * validation-inline : regex
- * validation-inline : required
- * validation-inline : required_if
- * validation-inline : required_unless
- * validation-inline : required_with
- * validation-inline : required_with_all
- * validation-inline : required_without
- * validation-inline : required_without_all
- * validation-inline : same
- * validation-inline : size.numeric
- * validation-inline : size.file
- * validation-inline : size.string
- * validation-inline : size.array
- * validation-inline : starts_with
- * validation-inline : string
- * validation-inline : timezone
- * validation-inline : unique
- * validation-inline : uploaded
- * validation-inline : url
- * validation-inline : uuid
 
 [ [to top](#todo-list) ]
 </details>
@@ -5772,7 +3813,7 @@ into your web browser: : not present
 ## is
 
 <details>
-<summary>show<small> (all missing: 266, including not present: 110)</small></summary>
+<summary>show<small> (all missing: 173, including not present: 110)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -5948,99 +3989,6 @@ into your web browser:
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
  * json : Your email address is not verified.
- * auth : failed
- * auth : throttle
- * passwords : throttled
- * validation : ends_with
- * validation : password
- * validation-inline : accepted
- * validation-inline : active_url
- * validation-inline : after
- * validation-inline : after_or_equal
- * validation-inline : alpha
- * validation-inline : alpha_dash
- * validation-inline : alpha_num
- * validation-inline : array
- * validation-inline : before
- * validation-inline : before_or_equal
- * validation-inline : between.numeric
- * validation-inline : between.file
- * validation-inline : between.string
- * validation-inline : between.array
- * validation-inline : boolean
- * validation-inline : confirmed
- * validation-inline : date
- * validation-inline : date_equals
- * validation-inline : date_format
- * validation-inline : different
- * validation-inline : digits
- * validation-inline : digits_between
- * validation-inline : dimensions
- * validation-inline : distinct
- * validation-inline : email
- * validation-inline : ends_with
- * validation-inline : exists
- * validation-inline : file
- * validation-inline : filled
- * validation-inline : gt.numeric
- * validation-inline : gt.file
- * validation-inline : gt.string
- * validation-inline : gt.array
- * validation-inline : gte.numeric
- * validation-inline : gte.file
- * validation-inline : gte.string
- * validation-inline : gte.array
- * validation-inline : image
- * validation-inline : in
- * validation-inline : in_array
- * validation-inline : integer
- * validation-inline : ip
- * validation-inline : ipv4
- * validation-inline : ipv6
- * validation-inline : json
- * validation-inline : lt.numeric
- * validation-inline : lt.file
- * validation-inline : lt.string
- * validation-inline : lt.array
- * validation-inline : lte.numeric
- * validation-inline : lte.file
- * validation-inline : lte.string
- * validation-inline : lte.array
- * validation-inline : max.numeric
- * validation-inline : max.file
- * validation-inline : max.string
- * validation-inline : max.array
- * validation-inline : mimes
- * validation-inline : mimetypes
- * validation-inline : min.numeric
- * validation-inline : min.file
- * validation-inline : min.string
- * validation-inline : min.array
- * validation-inline : not_in
- * validation-inline : not_regex
- * validation-inline : numeric
- * validation-inline : password
- * validation-inline : present
- * validation-inline : regex
- * validation-inline : required
- * validation-inline : required_if
- * validation-inline : required_unless
- * validation-inline : required_with
- * validation-inline : required_with_all
- * validation-inline : required_without
- * validation-inline : required_without_all
- * validation-inline : same
- * validation-inline : size.numeric
- * validation-inline : size.file
- * validation-inline : size.string
- * validation-inline : size.array
- * validation-inline : starts_with
- * validation-inline : string
- * validation-inline : timezone
- * validation-inline : unique
- * validation-inline : uploaded
- * validation-inline : url
- * validation-inline : uuid
 
 [ [to top](#todo-list) ]
 </details>
@@ -6176,7 +4124,7 @@ into your web browser:
 ## ja
 
 <details>
-<summary>show<small> (all missing: 226, including not present: 121)</small></summary>
+<summary>show<small> (all missing: 138, including not present: 121)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -6316,94 +4264,6 @@ into your web browser:
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
  * json : Your email address is not verified. : not present
- * validation-inline : accepted
- * validation-inline : active_url
- * validation-inline : after
- * validation-inline : after_or_equal
- * validation-inline : alpha
- * validation-inline : alpha_dash
- * validation-inline : alpha_num
- * validation-inline : array
- * validation-inline : before
- * validation-inline : before_or_equal
- * validation-inline : between.numeric
- * validation-inline : between.file
- * validation-inline : between.string
- * validation-inline : between.array
- * validation-inline : boolean
- * validation-inline : confirmed
- * validation-inline : date
- * validation-inline : date_equals
- * validation-inline : date_format
- * validation-inline : different
- * validation-inline : digits
- * validation-inline : digits_between
- * validation-inline : dimensions
- * validation-inline : distinct
- * validation-inline : email
- * validation-inline : ends_with
- * validation-inline : exists
- * validation-inline : file
- * validation-inline : filled
- * validation-inline : gt.numeric
- * validation-inline : gt.file
- * validation-inline : gt.string
- * validation-inline : gt.array
- * validation-inline : gte.numeric
- * validation-inline : gte.file
- * validation-inline : gte.string
- * validation-inline : gte.array
- * validation-inline : image
- * validation-inline : in
- * validation-inline : in_array
- * validation-inline : integer
- * validation-inline : ip
- * validation-inline : ipv4
- * validation-inline : ipv6
- * validation-inline : json
- * validation-inline : lt.numeric
- * validation-inline : lt.file
- * validation-inline : lt.string
- * validation-inline : lt.array
- * validation-inline : lte.numeric
- * validation-inline : lte.file
- * validation-inline : lte.string
- * validation-inline : lte.array
- * validation-inline : max.numeric
- * validation-inline : max.file
- * validation-inline : max.string
- * validation-inline : max.array
- * validation-inline : mimes
- * validation-inline : mimetypes
- * validation-inline : min.numeric
- * validation-inline : min.file
- * validation-inline : min.string
- * validation-inline : min.array
- * validation-inline : not_in
- * validation-inline : not_regex
- * validation-inline : numeric
- * validation-inline : password
- * validation-inline : present
- * validation-inline : regex
- * validation-inline : required
- * validation-inline : required_if
- * validation-inline : required_unless
- * validation-inline : required_with
- * validation-inline : required_with_all
- * validation-inline : required_without
- * validation-inline : required_without_all
- * validation-inline : same
- * validation-inline : size.numeric
- * validation-inline : size.file
- * validation-inline : size.string
- * validation-inline : size.array
- * validation-inline : starts_with
- * validation-inline : string
- * validation-inline : timezone
- * validation-inline : unique
- * validation-inline : uploaded
- * validation-inline : url
- * validation-inline : uuid
 
 [ [to top](#todo-list) ]
 </details>
@@ -6411,7 +4271,7 @@ into your web browser:
 ## ka
 
 <details>
-<summary>show<small> (all missing: 249, including not present: 142)</small></summary>
+<summary>show<small> (all missing: 159, including not present: 142)</small></summary>
 
  * json : A fresh verification link has been sent to your email address. : not present
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -6573,96 +4433,6 @@ into your web browser: : not present
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
  * json : Your email address is not verified. : not present
- * passwords : throttled
- * validation : password
- * validation-inline : accepted
- * validation-inline : active_url
- * validation-inline : after
- * validation-inline : after_or_equal
- * validation-inline : alpha
- * validation-inline : alpha_dash
- * validation-inline : alpha_num
- * validation-inline : array
- * validation-inline : before
- * validation-inline : before_or_equal
- * validation-inline : between.numeric
- * validation-inline : between.file
- * validation-inline : between.string
- * validation-inline : between.array
- * validation-inline : boolean
- * validation-inline : confirmed
- * validation-inline : date
- * validation-inline : date_equals
- * validation-inline : date_format
- * validation-inline : different
- * validation-inline : digits
- * validation-inline : digits_between
- * validation-inline : dimensions
- * validation-inline : distinct
- * validation-inline : email
- * validation-inline : ends_with
- * validation-inline : exists
- * validation-inline : file
- * validation-inline : filled
- * validation-inline : gt.numeric
- * validation-inline : gt.file
- * validation-inline : gt.string
- * validation-inline : gt.array
- * validation-inline : gte.numeric
- * validation-inline : gte.file
- * validation-inline : gte.string
- * validation-inline : gte.array
- * validation-inline : image
- * validation-inline : in
- * validation-inline : in_array
- * validation-inline : integer
- * validation-inline : ip
- * validation-inline : ipv4
- * validation-inline : ipv6
- * validation-inline : json
- * validation-inline : lt.numeric
- * validation-inline : lt.file
- * validation-inline : lt.string
- * validation-inline : lt.array
- * validation-inline : lte.numeric
- * validation-inline : lte.file
- * validation-inline : lte.string
- * validation-inline : lte.array
- * validation-inline : max.numeric
- * validation-inline : max.file
- * validation-inline : max.string
- * validation-inline : max.array
- * validation-inline : mimes
- * validation-inline : mimetypes
- * validation-inline : min.numeric
- * validation-inline : min.file
- * validation-inline : min.string
- * validation-inline : min.array
- * validation-inline : not_in
- * validation-inline : not_regex
- * validation-inline : numeric
- * validation-inline : password
- * validation-inline : present
- * validation-inline : regex
- * validation-inline : required
- * validation-inline : required_if
- * validation-inline : required_unless
- * validation-inline : required_with
- * validation-inline : required_with_all
- * validation-inline : required_without
- * validation-inline : required_without_all
- * validation-inline : same
- * validation-inline : size.numeric
- * validation-inline : size.file
- * validation-inline : size.string
- * validation-inline : size.array
- * validation-inline : starts_with
- * validation-inline : string
- * validation-inline : timezone
- * validation-inline : unique
- * validation-inline : uploaded
- * validation-inline : url
- * validation-inline : uuid
 
 [ [to top](#todo-list) ]
 </details>
@@ -6670,7 +4440,7 @@ into your web browser: : not present
 ## kk
 
 <details>
-<summary>show<small> (all missing: 218, including not present: 112)</small></summary>
+<summary>show<small> (all missing: 129, including not present: 112)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -6801,95 +4571,6 @@ into your web browser: : not present
  * json : You may delete any of your existing tokens if they are no longer needed. : not present
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
- * passwords : throttled
- * validation-inline : accepted
- * validation-inline : active_url
- * validation-inline : after
- * validation-inline : after_or_equal
- * validation-inline : alpha
- * validation-inline : alpha_dash
- * validation-inline : alpha_num
- * validation-inline : array
- * validation-inline : before
- * validation-inline : before_or_equal
- * validation-inline : between.numeric
- * validation-inline : between.file
- * validation-inline : between.string
- * validation-inline : between.array
- * validation-inline : boolean
- * validation-inline : confirmed
- * validation-inline : date
- * validation-inline : date_equals
- * validation-inline : date_format
- * validation-inline : different
- * validation-inline : digits
- * validation-inline : digits_between
- * validation-inline : dimensions
- * validation-inline : distinct
- * validation-inline : email
- * validation-inline : ends_with
- * validation-inline : exists
- * validation-inline : file
- * validation-inline : filled
- * validation-inline : gt.numeric
- * validation-inline : gt.file
- * validation-inline : gt.string
- * validation-inline : gt.array
- * validation-inline : gte.numeric
- * validation-inline : gte.file
- * validation-inline : gte.string
- * validation-inline : gte.array
- * validation-inline : image
- * validation-inline : in
- * validation-inline : in_array
- * validation-inline : integer
- * validation-inline : ip
- * validation-inline : ipv4
- * validation-inline : ipv6
- * validation-inline : json
- * validation-inline : lt.numeric
- * validation-inline : lt.file
- * validation-inline : lt.string
- * validation-inline : lt.array
- * validation-inline : lte.numeric
- * validation-inline : lte.file
- * validation-inline : lte.string
- * validation-inline : lte.array
- * validation-inline : max.numeric
- * validation-inline : max.file
- * validation-inline : max.string
- * validation-inline : max.array
- * validation-inline : mimes
- * validation-inline : mimetypes
- * validation-inline : min.numeric
- * validation-inline : min.file
- * validation-inline : min.string
- * validation-inline : min.array
- * validation-inline : not_in
- * validation-inline : not_regex
- * validation-inline : numeric
- * validation-inline : password
- * validation-inline : present
- * validation-inline : regex
- * validation-inline : required
- * validation-inline : required_if
- * validation-inline : required_unless
- * validation-inline : required_with
- * validation-inline : required_with_all
- * validation-inline : required_without
- * validation-inline : required_without_all
- * validation-inline : same
- * validation-inline : size.numeric
- * validation-inline : size.file
- * validation-inline : size.string
- * validation-inline : size.array
- * validation-inline : starts_with
- * validation-inline : string
- * validation-inline : timezone
- * validation-inline : unique
- * validation-inline : uploaded
- * validation-inline : url
- * validation-inline : uuid
 
 [ [to top](#todo-list) ]
 </details>
@@ -6897,7 +4578,7 @@ into your web browser: : not present
 ## km
 
 <details>
-<summary>show<small> (all missing: 300, including not present: 110)</small></summary>
+<summary>show<small> (all missing: 173, including not present: 110)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -7073,133 +4754,6 @@ into your web browser:
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
  * json : Your email address is not verified.
- * auth : failed
- * auth : throttle
- * passwords : throttled
- * validation : after_or_equal
- * validation : before_or_equal
- * validation : date_equals
- * validation : dimensions
- * validation : distinct
- * validation : ends_with
- * validation : file
- * validation : gt.numeric
- * validation : gt.file
- * validation : gt.string
- * validation : gt.array
- * validation : gte.numeric
- * validation : gte.file
- * validation : gte.string
- * validation : gte.array
- * validation : in_array
- * validation : ipv4
- * validation : ipv6
- * validation : json
- * validation : lt.numeric
- * validation : lt.file
- * validation : lt.string
- * validation : lt.array
- * validation : lte.numeric
- * validation : lte.file
- * validation : lte.string
- * validation : lte.array
- * validation : not_regex
- * validation : password
- * validation : present
- * validation : required_unless
- * validation : starts_with
- * validation : string
- * validation : timezone
- * validation : uploaded
- * validation : uuid
- * validation-inline : accepted
- * validation-inline : active_url
- * validation-inline : after
- * validation-inline : after_or_equal
- * validation-inline : alpha
- * validation-inline : alpha_dash
- * validation-inline : alpha_num
- * validation-inline : array
- * validation-inline : before
- * validation-inline : before_or_equal
- * validation-inline : between.numeric
- * validation-inline : between.file
- * validation-inline : between.string
- * validation-inline : between.array
- * validation-inline : boolean
- * validation-inline : confirmed
- * validation-inline : date
- * validation-inline : date_equals
- * validation-inline : date_format
- * validation-inline : different
- * validation-inline : digits
- * validation-inline : digits_between
- * validation-inline : dimensions
- * validation-inline : distinct
- * validation-inline : email
- * validation-inline : ends_with
- * validation-inline : exists
- * validation-inline : file
- * validation-inline : filled
- * validation-inline : gt.numeric
- * validation-inline : gt.file
- * validation-inline : gt.string
- * validation-inline : gt.array
- * validation-inline : gte.numeric
- * validation-inline : gte.file
- * validation-inline : gte.string
- * validation-inline : gte.array
- * validation-inline : image
- * validation-inline : in
- * validation-inline : in_array
- * validation-inline : integer
- * validation-inline : ip
- * validation-inline : ipv4
- * validation-inline : ipv6
- * validation-inline : json
- * validation-inline : lt.numeric
- * validation-inline : lt.file
- * validation-inline : lt.string
- * validation-inline : lt.array
- * validation-inline : lte.numeric
- * validation-inline : lte.file
- * validation-inline : lte.string
- * validation-inline : lte.array
- * validation-inline : max.numeric
- * validation-inline : max.file
- * validation-inline : max.string
- * validation-inline : max.array
- * validation-inline : mimes
- * validation-inline : mimetypes
- * validation-inline : min.numeric
- * validation-inline : min.file
- * validation-inline : min.string
- * validation-inline : min.array
- * validation-inline : not_in
- * validation-inline : not_regex
- * validation-inline : numeric
- * validation-inline : password
- * validation-inline : present
- * validation-inline : regex
- * validation-inline : required
- * validation-inline : required_if
- * validation-inline : required_unless
- * validation-inline : required_with
- * validation-inline : required_with_all
- * validation-inline : required_without
- * validation-inline : required_without_all
- * validation-inline : same
- * validation-inline : size.numeric
- * validation-inline : size.file
- * validation-inline : size.string
- * validation-inline : size.array
- * validation-inline : starts_with
- * validation-inline : string
- * validation-inline : timezone
- * validation-inline : unique
- * validation-inline : uploaded
- * validation-inline : url
- * validation-inline : uuid
 
 [ [to top](#todo-list) ]
 </details>
@@ -7207,7 +4761,7 @@ into your web browser:
 ## kn
 
 <details>
-<summary>show<small> (all missing: 228, including not present: 120)</small></summary>
+<summary>show<small> (all missing: 137, including not present: 120)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -7346,97 +4900,6 @@ into your web browser:
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
  * json : Your email address is not verified. : not present
- * passwords : throttled
- * validation : ends_with
- * validation : password
- * validation-inline : accepted
- * validation-inline : active_url
- * validation-inline : after
- * validation-inline : after_or_equal
- * validation-inline : alpha
- * validation-inline : alpha_dash
- * validation-inline : alpha_num
- * validation-inline : array
- * validation-inline : before
- * validation-inline : before_or_equal
- * validation-inline : between.numeric
- * validation-inline : between.file
- * validation-inline : between.string
- * validation-inline : between.array
- * validation-inline : boolean
- * validation-inline : confirmed
- * validation-inline : date
- * validation-inline : date_equals
- * validation-inline : date_format
- * validation-inline : different
- * validation-inline : digits
- * validation-inline : digits_between
- * validation-inline : dimensions
- * validation-inline : distinct
- * validation-inline : email
- * validation-inline : ends_with
- * validation-inline : exists
- * validation-inline : file
- * validation-inline : filled
- * validation-inline : gt.numeric
- * validation-inline : gt.file
- * validation-inline : gt.string
- * validation-inline : gt.array
- * validation-inline : gte.numeric
- * validation-inline : gte.file
- * validation-inline : gte.string
- * validation-inline : gte.array
- * validation-inline : image
- * validation-inline : in
- * validation-inline : in_array
- * validation-inline : integer
- * validation-inline : ip
- * validation-inline : ipv4
- * validation-inline : ipv6
- * validation-inline : json
- * validation-inline : lt.numeric
- * validation-inline : lt.file
- * validation-inline : lt.string
- * validation-inline : lt.array
- * validation-inline : lte.numeric
- * validation-inline : lte.file
- * validation-inline : lte.string
- * validation-inline : lte.array
- * validation-inline : max.numeric
- * validation-inline : max.file
- * validation-inline : max.string
- * validation-inline : max.array
- * validation-inline : mimes
- * validation-inline : mimetypes
- * validation-inline : min.numeric
- * validation-inline : min.file
- * validation-inline : min.string
- * validation-inline : min.array
- * validation-inline : not_in
- * validation-inline : not_regex
- * validation-inline : numeric
- * validation-inline : password
- * validation-inline : present
- * validation-inline : regex
- * validation-inline : required
- * validation-inline : required_if
- * validation-inline : required_unless
- * validation-inline : required_with
- * validation-inline : required_with_all
- * validation-inline : required_without
- * validation-inline : required_without_all
- * validation-inline : same
- * validation-inline : size.numeric
- * validation-inline : size.file
- * validation-inline : size.string
- * validation-inline : size.array
- * validation-inline : starts_with
- * validation-inline : string
- * validation-inline : timezone
- * validation-inline : unique
- * validation-inline : uploaded
- * validation-inline : url
- * validation-inline : uuid
 
 [ [to top](#todo-list) ]
 </details>
@@ -7588,7 +5051,7 @@ All lines are translated 😊
 ## lv
 
 <details>
-<summary>show<small> (all missing: 264, including not present: 110)</small></summary>
+<summary>show<small> (all missing: 173, including not present: 110)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -7764,97 +5227,6 @@ into your web browser:
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
  * json : Your email address is not verified.
- * passwords : throttled
- * validation : ends_with
- * validation : password
- * validation-inline : accepted
- * validation-inline : active_url
- * validation-inline : after
- * validation-inline : after_or_equal
- * validation-inline : alpha
- * validation-inline : alpha_dash
- * validation-inline : alpha_num
- * validation-inline : array
- * validation-inline : before
- * validation-inline : before_or_equal
- * validation-inline : between.numeric
- * validation-inline : between.file
- * validation-inline : between.string
- * validation-inline : between.array
- * validation-inline : boolean
- * validation-inline : confirmed
- * validation-inline : date
- * validation-inline : date_equals
- * validation-inline : date_format
- * validation-inline : different
- * validation-inline : digits
- * validation-inline : digits_between
- * validation-inline : dimensions
- * validation-inline : distinct
- * validation-inline : email
- * validation-inline : ends_with
- * validation-inline : exists
- * validation-inline : file
- * validation-inline : filled
- * validation-inline : gt.numeric
- * validation-inline : gt.file
- * validation-inline : gt.string
- * validation-inline : gt.array
- * validation-inline : gte.numeric
- * validation-inline : gte.file
- * validation-inline : gte.string
- * validation-inline : gte.array
- * validation-inline : image
- * validation-inline : in
- * validation-inline : in_array
- * validation-inline : integer
- * validation-inline : ip
- * validation-inline : ipv4
- * validation-inline : ipv6
- * validation-inline : json
- * validation-inline : lt.numeric
- * validation-inline : lt.file
- * validation-inline : lt.string
- * validation-inline : lt.array
- * validation-inline : lte.numeric
- * validation-inline : lte.file
- * validation-inline : lte.string
- * validation-inline : lte.array
- * validation-inline : max.numeric
- * validation-inline : max.file
- * validation-inline : max.string
- * validation-inline : max.array
- * validation-inline : mimes
- * validation-inline : mimetypes
- * validation-inline : min.numeric
- * validation-inline : min.file
- * validation-inline : min.string
- * validation-inline : min.array
- * validation-inline : not_in
- * validation-inline : not_regex
- * validation-inline : numeric
- * validation-inline : password
- * validation-inline : present
- * validation-inline : regex
- * validation-inline : required
- * validation-inline : required_if
- * validation-inline : required_unless
- * validation-inline : required_with
- * validation-inline : required_with_all
- * validation-inline : required_without
- * validation-inline : required_without_all
- * validation-inline : same
- * validation-inline : size.numeric
- * validation-inline : size.file
- * validation-inline : size.string
- * validation-inline : size.array
- * validation-inline : starts_with
- * validation-inline : string
- * validation-inline : timezone
- * validation-inline : unique
- * validation-inline : uploaded
- * validation-inline : url
- * validation-inline : uuid
 
 [ [to top](#todo-list) ]
 </details>
@@ -7862,7 +5234,7 @@ into your web browser:
 ## me
 
 <details>
-<summary>show<small> (all missing: 292, including not present: 110)</small></summary>
+<summary>show<small> (all missing: 173, including not present: 110)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -8038,125 +5410,6 @@ into your web browser:
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
  * json : Your email address is not verified.
- * passwords : throttled
- * validation : after_or_equal
- * validation : before_or_equal
- * validation : date_equals
- * validation : dimensions
- * validation : ends_with
- * validation : file
- * validation : gt.numeric
- * validation : gt.file
- * validation : gt.string
- * validation : gt.array
- * validation : gte.numeric
- * validation : gte.file
- * validation : gte.string
- * validation : gte.array
- * validation : ipv4
- * validation : ipv6
- * validation : lt.numeric
- * validation : lt.file
- * validation : lt.string
- * validation : lt.array
- * validation : lte.numeric
- * validation : lte.file
- * validation : lte.string
- * validation : lte.array
- * validation : not_regex
- * validation : password
- * validation : starts_with
- * validation : timezone
- * validation : uploaded
- * validation : uuid
- * validation-inline : accepted
- * validation-inline : active_url
- * validation-inline : after
- * validation-inline : after_or_equal
- * validation-inline : alpha
- * validation-inline : alpha_dash
- * validation-inline : alpha_num
- * validation-inline : array
- * validation-inline : before
- * validation-inline : before_or_equal
- * validation-inline : between.numeric
- * validation-inline : between.file
- * validation-inline : between.string
- * validation-inline : between.array
- * validation-inline : boolean
- * validation-inline : confirmed
- * validation-inline : date
- * validation-inline : date_equals
- * validation-inline : date_format
- * validation-inline : different
- * validation-inline : digits
- * validation-inline : digits_between
- * validation-inline : dimensions
- * validation-inline : distinct
- * validation-inline : email
- * validation-inline : ends_with
- * validation-inline : exists
- * validation-inline : file
- * validation-inline : filled
- * validation-inline : gt.numeric
- * validation-inline : gt.file
- * validation-inline : gt.string
- * validation-inline : gt.array
- * validation-inline : gte.numeric
- * validation-inline : gte.file
- * validation-inline : gte.string
- * validation-inline : gte.array
- * validation-inline : image
- * validation-inline : in
- * validation-inline : in_array
- * validation-inline : integer
- * validation-inline : ip
- * validation-inline : ipv4
- * validation-inline : ipv6
- * validation-inline : json
- * validation-inline : lt.numeric
- * validation-inline : lt.file
- * validation-inline : lt.string
- * validation-inline : lt.array
- * validation-inline : lte.numeric
- * validation-inline : lte.file
- * validation-inline : lte.string
- * validation-inline : lte.array
- * validation-inline : max.numeric
- * validation-inline : max.file
- * validation-inline : max.string
- * validation-inline : max.array
- * validation-inline : mimes
- * validation-inline : mimetypes
- * validation-inline : min.numeric
- * validation-inline : min.file
- * validation-inline : min.string
- * validation-inline : min.array
- * validation-inline : not_in
- * validation-inline : not_regex
- * validation-inline : numeric
- * validation-inline : password
- * validation-inline : present
- * validation-inline : regex
- * validation-inline : required
- * validation-inline : required_if
- * validation-inline : required_unless
- * validation-inline : required_with
- * validation-inline : required_with_all
- * validation-inline : required_without
- * validation-inline : required_without_all
- * validation-inline : same
- * validation-inline : size.numeric
- * validation-inline : size.file
- * validation-inline : size.string
- * validation-inline : size.array
- * validation-inline : starts_with
- * validation-inline : string
- * validation-inline : timezone
- * validation-inline : unique
- * validation-inline : uploaded
- * validation-inline : url
- * validation-inline : uuid
 
 [ [to top](#todo-list) ]
 </details>
@@ -8164,7 +5417,7 @@ into your web browser:
 ## mk
 
 <details>
-<summary>show<small> (all missing: 301, including not present: 110)</small></summary>
+<summary>show<small> (all missing: 173, including not present: 110)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -8340,134 +5593,6 @@ into your web browser:
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
  * json : Your email address is not verified.
- * auth : failed
- * auth : throttle
- * passwords : throttled
- * validation : after_or_equal
- * validation : before_or_equal
- * validation : date_equals
- * validation : dimensions
- * validation : distinct
- * validation : ends_with
- * validation : file
- * validation : gt.numeric
- * validation : gt.file
- * validation : gt.string
- * validation : gt.array
- * validation : gte.numeric
- * validation : gte.file
- * validation : gte.string
- * validation : gte.array
- * validation : in_array
- * validation : ipv4
- * validation : ipv6
- * validation : json
- * validation : lt.numeric
- * validation : lt.file
- * validation : lt.string
- * validation : lt.array
- * validation : lte.numeric
- * validation : lte.file
- * validation : lte.string
- * validation : lte.array
- * validation : not_regex
- * validation : password
- * validation : present
- * validation : required_unless
- * validation : required_without_all
- * validation : starts_with
- * validation : string
- * validation : timezone
- * validation : uploaded
- * validation : uuid
- * validation-inline : accepted
- * validation-inline : active_url
- * validation-inline : after
- * validation-inline : after_or_equal
- * validation-inline : alpha
- * validation-inline : alpha_dash
- * validation-inline : alpha_num
- * validation-inline : array
- * validation-inline : before
- * validation-inline : before_or_equal
- * validation-inline : between.numeric
- * validation-inline : between.file
- * validation-inline : between.string
- * validation-inline : between.array
- * validation-inline : boolean
- * validation-inline : confirmed
- * validation-inline : date
- * validation-inline : date_equals
- * validation-inline : date_format
- * validation-inline : different
- * validation-inline : digits
- * validation-inline : digits_between
- * validation-inline : dimensions
- * validation-inline : distinct
- * validation-inline : email
- * validation-inline : ends_with
- * validation-inline : exists
- * validation-inline : file
- * validation-inline : filled
- * validation-inline : gt.numeric
- * validation-inline : gt.file
- * validation-inline : gt.string
- * validation-inline : gt.array
- * validation-inline : gte.numeric
- * validation-inline : gte.file
- * validation-inline : gte.string
- * validation-inline : gte.array
- * validation-inline : image
- * validation-inline : in
- * validation-inline : in_array
- * validation-inline : integer
- * validation-inline : ip
- * validation-inline : ipv4
- * validation-inline : ipv6
- * validation-inline : json
- * validation-inline : lt.numeric
- * validation-inline : lt.file
- * validation-inline : lt.string
- * validation-inline : lt.array
- * validation-inline : lte.numeric
- * validation-inline : lte.file
- * validation-inline : lte.string
- * validation-inline : lte.array
- * validation-inline : max.numeric
- * validation-inline : max.file
- * validation-inline : max.string
- * validation-inline : max.array
- * validation-inline : mimes
- * validation-inline : mimetypes
- * validation-inline : min.numeric
- * validation-inline : min.file
- * validation-inline : min.string
- * validation-inline : min.array
- * validation-inline : not_in
- * validation-inline : not_regex
- * validation-inline : numeric
- * validation-inline : password
- * validation-inline : present
- * validation-inline : regex
- * validation-inline : required
- * validation-inline : required_if
- * validation-inline : required_unless
- * validation-inline : required_with
- * validation-inline : required_with_all
- * validation-inline : required_without
- * validation-inline : required_without_all
- * validation-inline : same
- * validation-inline : size.numeric
- * validation-inline : size.file
- * validation-inline : size.string
- * validation-inline : size.array
- * validation-inline : starts_with
- * validation-inline : string
- * validation-inline : timezone
- * validation-inline : unique
- * validation-inline : uploaded
- * validation-inline : url
- * validation-inline : uuid
 
 [ [to top](#todo-list) ]
 </details>
@@ -8475,7 +5600,7 @@ into your web browser:
 ## mn
 
 <details>
-<summary>show<small> (all missing: 289, including not present: 110)</small></summary>
+<summary>show<small> (all missing: 173, including not present: 110)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -8651,122 +5776,6 @@ into your web browser:
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
  * json : Your email address is not verified.
- * passwords : throttled
- * validation : date_equals
- * validation : ends_with
- * validation : gt.numeric
- * validation : gt.file
- * validation : gt.string
- * validation : gt.array
- * validation : gte.numeric
- * validation : gte.file
- * validation : gte.string
- * validation : gte.array
- * validation : ipv4
- * validation : ipv6
- * validation : lt.numeric
- * validation : lt.file
- * validation : lt.string
- * validation : lt.array
- * validation : lte.numeric
- * validation : lte.file
- * validation : lte.string
- * validation : lte.array
- * validation : not_regex
- * validation : password
- * validation : required_without
- * validation : required_without_all
- * validation : same
- * validation : starts_with
- * validation : uuid
- * validation-inline : accepted
- * validation-inline : active_url
- * validation-inline : after
- * validation-inline : after_or_equal
- * validation-inline : alpha
- * validation-inline : alpha_dash
- * validation-inline : alpha_num
- * validation-inline : array
- * validation-inline : before
- * validation-inline : before_or_equal
- * validation-inline : between.numeric
- * validation-inline : between.file
- * validation-inline : between.string
- * validation-inline : between.array
- * validation-inline : boolean
- * validation-inline : confirmed
- * validation-inline : date
- * validation-inline : date_equals
- * validation-inline : date_format
- * validation-inline : different
- * validation-inline : digits
- * validation-inline : digits_between
- * validation-inline : dimensions
- * validation-inline : distinct
- * validation-inline : email
- * validation-inline : ends_with
- * validation-inline : exists
- * validation-inline : file
- * validation-inline : filled
- * validation-inline : gt.numeric
- * validation-inline : gt.file
- * validation-inline : gt.string
- * validation-inline : gt.array
- * validation-inline : gte.numeric
- * validation-inline : gte.file
- * validation-inline : gte.string
- * validation-inline : gte.array
- * validation-inline : image
- * validation-inline : in
- * validation-inline : in_array
- * validation-inline : integer
- * validation-inline : ip
- * validation-inline : ipv4
- * validation-inline : ipv6
- * validation-inline : json
- * validation-inline : lt.numeric
- * validation-inline : lt.file
- * validation-inline : lt.string
- * validation-inline : lt.array
- * validation-inline : lte.numeric
- * validation-inline : lte.file
- * validation-inline : lte.string
- * validation-inline : lte.array
- * validation-inline : max.numeric
- * validation-inline : max.file
- * validation-inline : max.string
- * validation-inline : max.array
- * validation-inline : mimes
- * validation-inline : mimetypes
- * validation-inline : min.numeric
- * validation-inline : min.file
- * validation-inline : min.string
- * validation-inline : min.array
- * validation-inline : not_in
- * validation-inline : not_regex
- * validation-inline : numeric
- * validation-inline : password
- * validation-inline : present
- * validation-inline : regex
- * validation-inline : required
- * validation-inline : required_if
- * validation-inline : required_unless
- * validation-inline : required_with
- * validation-inline : required_with_all
- * validation-inline : required_without
- * validation-inline : required_without_all
- * validation-inline : same
- * validation-inline : size.numeric
- * validation-inline : size.file
- * validation-inline : size.string
- * validation-inline : size.array
- * validation-inline : starts_with
- * validation-inline : string
- * validation-inline : timezone
- * validation-inline : unique
- * validation-inline : uploaded
- * validation-inline : url
- * validation-inline : uuid
 
 [ [to top](#todo-list) ]
 </details>
@@ -8774,7 +5783,7 @@ into your web browser:
 ## mr
 
 <details>
-<summary>show<small> (all missing: 229, including not present: 121)</small></summary>
+<summary>show<small> (all missing: 138, including not present: 121)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -8914,97 +5923,6 @@ into your web browser:
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
  * json : Your email address is not verified. : not present
- * passwords : throttled
- * validation : ends_with
- * validation : password
- * validation-inline : accepted
- * validation-inline : active_url
- * validation-inline : after
- * validation-inline : after_or_equal
- * validation-inline : alpha
- * validation-inline : alpha_dash
- * validation-inline : alpha_num
- * validation-inline : array
- * validation-inline : before
- * validation-inline : before_or_equal
- * validation-inline : between.numeric
- * validation-inline : between.file
- * validation-inline : between.string
- * validation-inline : between.array
- * validation-inline : boolean
- * validation-inline : confirmed
- * validation-inline : date
- * validation-inline : date_equals
- * validation-inline : date_format
- * validation-inline : different
- * validation-inline : digits
- * validation-inline : digits_between
- * validation-inline : dimensions
- * validation-inline : distinct
- * validation-inline : email
- * validation-inline : ends_with
- * validation-inline : exists
- * validation-inline : file
- * validation-inline : filled
- * validation-inline : gt.numeric
- * validation-inline : gt.file
- * validation-inline : gt.string
- * validation-inline : gt.array
- * validation-inline : gte.numeric
- * validation-inline : gte.file
- * validation-inline : gte.string
- * validation-inline : gte.array
- * validation-inline : image
- * validation-inline : in
- * validation-inline : in_array
- * validation-inline : integer
- * validation-inline : ip
- * validation-inline : ipv4
- * validation-inline : ipv6
- * validation-inline : json
- * validation-inline : lt.numeric
- * validation-inline : lt.file
- * validation-inline : lt.string
- * validation-inline : lt.array
- * validation-inline : lte.numeric
- * validation-inline : lte.file
- * validation-inline : lte.string
- * validation-inline : lte.array
- * validation-inline : max.numeric
- * validation-inline : max.file
- * validation-inline : max.string
- * validation-inline : max.array
- * validation-inline : mimes
- * validation-inline : mimetypes
- * validation-inline : min.numeric
- * validation-inline : min.file
- * validation-inline : min.string
- * validation-inline : min.array
- * validation-inline : not_in
- * validation-inline : not_regex
- * validation-inline : numeric
- * validation-inline : password
- * validation-inline : present
- * validation-inline : regex
- * validation-inline : required
- * validation-inline : required_if
- * validation-inline : required_unless
- * validation-inline : required_with
- * validation-inline : required_with_all
- * validation-inline : required_without
- * validation-inline : required_without_all
- * validation-inline : same
- * validation-inline : size.numeric
- * validation-inline : size.file
- * validation-inline : size.string
- * validation-inline : size.array
- * validation-inline : starts_with
- * validation-inline : string
- * validation-inline : timezone
- * validation-inline : unique
- * validation-inline : uploaded
- * validation-inline : url
- * validation-inline : uuid
 
 [ [to top](#todo-list) ]
 </details>
@@ -9160,7 +6078,7 @@ into your web browser:
 ## nb
 
 <details>
-<summary>show<small> (all missing: 219, including not present: 114)</small></summary>
+<summary>show<small> (all missing: 131, including not present: 114)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -9293,94 +6211,6 @@ into your web browser:
  * json : You may delete any of your existing tokens if they are no longer needed. : not present
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
- * validation-inline : accepted
- * validation-inline : active_url
- * validation-inline : after
- * validation-inline : after_or_equal
- * validation-inline : alpha
- * validation-inline : alpha_dash
- * validation-inline : alpha_num
- * validation-inline : array
- * validation-inline : before
- * validation-inline : before_or_equal
- * validation-inline : between.numeric
- * validation-inline : between.file
- * validation-inline : between.string
- * validation-inline : between.array
- * validation-inline : boolean
- * validation-inline : confirmed
- * validation-inline : date
- * validation-inline : date_equals
- * validation-inline : date_format
- * validation-inline : different
- * validation-inline : digits
- * validation-inline : digits_between
- * validation-inline : dimensions
- * validation-inline : distinct
- * validation-inline : email
- * validation-inline : ends_with
- * validation-inline : exists
- * validation-inline : file
- * validation-inline : filled
- * validation-inline : gt.numeric
- * validation-inline : gt.file
- * validation-inline : gt.string
- * validation-inline : gt.array
- * validation-inline : gte.numeric
- * validation-inline : gte.file
- * validation-inline : gte.string
- * validation-inline : gte.array
- * validation-inline : image
- * validation-inline : in
- * validation-inline : in_array
- * validation-inline : integer
- * validation-inline : ip
- * validation-inline : ipv4
- * validation-inline : ipv6
- * validation-inline : json
- * validation-inline : lt.numeric
- * validation-inline : lt.file
- * validation-inline : lt.string
- * validation-inline : lt.array
- * validation-inline : lte.numeric
- * validation-inline : lte.file
- * validation-inline : lte.string
- * validation-inline : lte.array
- * validation-inline : max.numeric
- * validation-inline : max.file
- * validation-inline : max.string
- * validation-inline : max.array
- * validation-inline : mimes
- * validation-inline : mimetypes
- * validation-inline : min.numeric
- * validation-inline : min.file
- * validation-inline : min.string
- * validation-inline : min.array
- * validation-inline : not_in
- * validation-inline : not_regex
- * validation-inline : numeric
- * validation-inline : password
- * validation-inline : present
- * validation-inline : regex
- * validation-inline : required
- * validation-inline : required_if
- * validation-inline : required_unless
- * validation-inline : required_with
- * validation-inline : required_with_all
- * validation-inline : required_without
- * validation-inline : required_without_all
- * validation-inline : same
- * validation-inline : size.numeric
- * validation-inline : size.file
- * validation-inline : size.string
- * validation-inline : size.array
- * validation-inline : starts_with
- * validation-inline : string
- * validation-inline : timezone
- * validation-inline : unique
- * validation-inline : uploaded
- * validation-inline : url
- * validation-inline : uuid
 
 [ [to top](#todo-list) ]
 </details>
@@ -9661,7 +6491,7 @@ into your web browser:
 ## nn
 
 <details>
-<summary>show<small> (all missing: 221, including not present: 114)</small></summary>
+<summary>show<small> (all missing: 131, including not present: 114)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -9794,96 +6624,6 @@ into your web browser:
  * json : You may delete any of your existing tokens if they are no longer needed. : not present
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
- * passwords : throttled
- * validation : password
- * validation-inline : accepted
- * validation-inline : active_url
- * validation-inline : after
- * validation-inline : after_or_equal
- * validation-inline : alpha
- * validation-inline : alpha_dash
- * validation-inline : alpha_num
- * validation-inline : array
- * validation-inline : before
- * validation-inline : before_or_equal
- * validation-inline : between.numeric
- * validation-inline : between.file
- * validation-inline : between.string
- * validation-inline : between.array
- * validation-inline : boolean
- * validation-inline : confirmed
- * validation-inline : date
- * validation-inline : date_equals
- * validation-inline : date_format
- * validation-inline : different
- * validation-inline : digits
- * validation-inline : digits_between
- * validation-inline : dimensions
- * validation-inline : distinct
- * validation-inline : email
- * validation-inline : ends_with
- * validation-inline : exists
- * validation-inline : file
- * validation-inline : filled
- * validation-inline : gt.numeric
- * validation-inline : gt.file
- * validation-inline : gt.string
- * validation-inline : gt.array
- * validation-inline : gte.numeric
- * validation-inline : gte.file
- * validation-inline : gte.string
- * validation-inline : gte.array
- * validation-inline : image
- * validation-inline : in
- * validation-inline : in_array
- * validation-inline : integer
- * validation-inline : ip
- * validation-inline : ipv4
- * validation-inline : ipv6
- * validation-inline : json
- * validation-inline : lt.numeric
- * validation-inline : lt.file
- * validation-inline : lt.string
- * validation-inline : lt.array
- * validation-inline : lte.numeric
- * validation-inline : lte.file
- * validation-inline : lte.string
- * validation-inline : lte.array
- * validation-inline : max.numeric
- * validation-inline : max.file
- * validation-inline : max.string
- * validation-inline : max.array
- * validation-inline : mimes
- * validation-inline : mimetypes
- * validation-inline : min.numeric
- * validation-inline : min.file
- * validation-inline : min.string
- * validation-inline : min.array
- * validation-inline : not_in
- * validation-inline : not_regex
- * validation-inline : numeric
- * validation-inline : password
- * validation-inline : present
- * validation-inline : regex
- * validation-inline : required
- * validation-inline : required_if
- * validation-inline : required_unless
- * validation-inline : required_with
- * validation-inline : required_with_all
- * validation-inline : required_without
- * validation-inline : required_without_all
- * validation-inline : same
- * validation-inline : size.numeric
- * validation-inline : size.file
- * validation-inline : size.string
- * validation-inline : size.array
- * validation-inline : starts_with
- * validation-inline : string
- * validation-inline : timezone
- * validation-inline : unique
- * validation-inline : uploaded
- * validation-inline : url
- * validation-inline : uuid
 
 [ [to top](#todo-list) ]
 </details>
@@ -9897,7 +6637,7 @@ All lines are translated 😊
 ## ps
 
 <details>
-<summary>show<small> (all missing: 229, including not present: 121)</small></summary>
+<summary>show<small> (all missing: 138, including not present: 121)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -10037,97 +6777,6 @@ All lines are translated 😊
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
  * json : Your email address is not verified. : not present
- * passwords : throttled
- * validation : ends_with
- * validation : password
- * validation-inline : accepted
- * validation-inline : active_url
- * validation-inline : after
- * validation-inline : after_or_equal
- * validation-inline : alpha
- * validation-inline : alpha_dash
- * validation-inline : alpha_num
- * validation-inline : array
- * validation-inline : before
- * validation-inline : before_or_equal
- * validation-inline : between.numeric
- * validation-inline : between.file
- * validation-inline : between.string
- * validation-inline : between.array
- * validation-inline : boolean
- * validation-inline : confirmed
- * validation-inline : date
- * validation-inline : date_equals
- * validation-inline : date_format
- * validation-inline : different
- * validation-inline : digits
- * validation-inline : digits_between
- * validation-inline : dimensions
- * validation-inline : distinct
- * validation-inline : email
- * validation-inline : ends_with
- * validation-inline : exists
- * validation-inline : file
- * validation-inline : filled
- * validation-inline : gt.numeric
- * validation-inline : gt.file
- * validation-inline : gt.string
- * validation-inline : gt.array
- * validation-inline : gte.numeric
- * validation-inline : gte.file
- * validation-inline : gte.string
- * validation-inline : gte.array
- * validation-inline : image
- * validation-inline : in
- * validation-inline : in_array
- * validation-inline : integer
- * validation-inline : ip
- * validation-inline : ipv4
- * validation-inline : ipv6
- * validation-inline : json
- * validation-inline : lt.numeric
- * validation-inline : lt.file
- * validation-inline : lt.string
- * validation-inline : lt.array
- * validation-inline : lte.numeric
- * validation-inline : lte.file
- * validation-inline : lte.string
- * validation-inline : lte.array
- * validation-inline : max.numeric
- * validation-inline : max.file
- * validation-inline : max.string
- * validation-inline : max.array
- * validation-inline : mimes
- * validation-inline : mimetypes
- * validation-inline : min.numeric
- * validation-inline : min.file
- * validation-inline : min.string
- * validation-inline : min.array
- * validation-inline : not_in
- * validation-inline : not_regex
- * validation-inline : numeric
- * validation-inline : password
- * validation-inline : present
- * validation-inline : regex
- * validation-inline : required
- * validation-inline : required_if
- * validation-inline : required_unless
- * validation-inline : required_with
- * validation-inline : required_with_all
- * validation-inline : required_without
- * validation-inline : required_without_all
- * validation-inline : same
- * validation-inline : size.numeric
- * validation-inline : size.file
- * validation-inline : size.string
- * validation-inline : size.array
- * validation-inline : starts_with
- * validation-inline : string
- * validation-inline : timezone
- * validation-inline : unique
- * validation-inline : uploaded
- * validation-inline : url
- * validation-inline : uuid
 
 [ [to top](#todo-list) ]
 </details>
@@ -10156,7 +6805,7 @@ All lines are translated 😊
 ## ro
 
 <details>
-<summary>show<small> (all missing: 218, including not present: 112)</small></summary>
+<summary>show<small> (all missing: 129, including not present: 112)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -10287,95 +6936,6 @@ All lines are translated 😊
  * json : You may delete any of your existing tokens if they are no longer needed. : not present
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
- * passwords : throttled
- * validation-inline : accepted
- * validation-inline : active_url
- * validation-inline : after
- * validation-inline : after_or_equal
- * validation-inline : alpha
- * validation-inline : alpha_dash
- * validation-inline : alpha_num
- * validation-inline : array
- * validation-inline : before
- * validation-inline : before_or_equal
- * validation-inline : between.numeric
- * validation-inline : between.file
- * validation-inline : between.string
- * validation-inline : between.array
- * validation-inline : boolean
- * validation-inline : confirmed
- * validation-inline : date
- * validation-inline : date_equals
- * validation-inline : date_format
- * validation-inline : different
- * validation-inline : digits
- * validation-inline : digits_between
- * validation-inline : dimensions
- * validation-inline : distinct
- * validation-inline : email
- * validation-inline : ends_with
- * validation-inline : exists
- * validation-inline : file
- * validation-inline : filled
- * validation-inline : gt.numeric
- * validation-inline : gt.file
- * validation-inline : gt.string
- * validation-inline : gt.array
- * validation-inline : gte.numeric
- * validation-inline : gte.file
- * validation-inline : gte.string
- * validation-inline : gte.array
- * validation-inline : image
- * validation-inline : in
- * validation-inline : in_array
- * validation-inline : integer
- * validation-inline : ip
- * validation-inline : ipv4
- * validation-inline : ipv6
- * validation-inline : json
- * validation-inline : lt.numeric
- * validation-inline : lt.file
- * validation-inline : lt.string
- * validation-inline : lt.array
- * validation-inline : lte.numeric
- * validation-inline : lte.file
- * validation-inline : lte.string
- * validation-inline : lte.array
- * validation-inline : max.numeric
- * validation-inline : max.file
- * validation-inline : max.string
- * validation-inline : max.array
- * validation-inline : mimes
- * validation-inline : mimetypes
- * validation-inline : min.numeric
- * validation-inline : min.file
- * validation-inline : min.string
- * validation-inline : min.array
- * validation-inline : not_in
- * validation-inline : not_regex
- * validation-inline : numeric
- * validation-inline : password
- * validation-inline : present
- * validation-inline : regex
- * validation-inline : required
- * validation-inline : required_if
- * validation-inline : required_unless
- * validation-inline : required_with
- * validation-inline : required_with_all
- * validation-inline : required_without
- * validation-inline : required_without_all
- * validation-inline : same
- * validation-inline : size.numeric
- * validation-inline : size.file
- * validation-inline : size.string
- * validation-inline : size.array
- * validation-inline : starts_with
- * validation-inline : string
- * validation-inline : timezone
- * validation-inline : unique
- * validation-inline : uploaded
- * validation-inline : url
- * validation-inline : uuid
 
 [ [to top](#todo-list) ]
 </details>
@@ -10389,7 +6949,7 @@ All lines are translated 😊
 ## sc
 
 <details>
-<summary>show<small> (all missing: 299, including not present: 110)</small></summary>
+<summary>show<small> (all missing: 173, including not present: 110)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -10565,132 +7125,6 @@ into your web browser:
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
  * json : Your email address is not verified.
- * auth : failed
- * auth : throttle
- * passwords : throttled
- * validation : after_or_equal
- * validation : before_or_equal
- * validation : date_equals
- * validation : dimensions
- * validation : distinct
- * validation : ends_with
- * validation : file
- * validation : gt.numeric
- * validation : gt.file
- * validation : gt.string
- * validation : gt.array
- * validation : gte.numeric
- * validation : gte.file
- * validation : gte.string
- * validation : gte.array
- * validation : in_array
- * validation : ipv4
- * validation : ipv6
- * validation : json
- * validation : lt.numeric
- * validation : lt.file
- * validation : lt.string
- * validation : lt.array
- * validation : lte.numeric
- * validation : lte.file
- * validation : lte.string
- * validation : lte.array
- * validation : not_regex
- * validation : password
- * validation : present
- * validation : required_unless
- * validation : starts_with
- * validation : string
- * validation : uploaded
- * validation : uuid
- * validation-inline : accepted
- * validation-inline : active_url
- * validation-inline : after
- * validation-inline : after_or_equal
- * validation-inline : alpha
- * validation-inline : alpha_dash
- * validation-inline : alpha_num
- * validation-inline : array
- * validation-inline : before
- * validation-inline : before_or_equal
- * validation-inline : between.numeric
- * validation-inline : between.file
- * validation-inline : between.string
- * validation-inline : between.array
- * validation-inline : boolean
- * validation-inline : confirmed
- * validation-inline : date
- * validation-inline : date_equals
- * validation-inline : date_format
- * validation-inline : different
- * validation-inline : digits
- * validation-inline : digits_between
- * validation-inline : dimensions
- * validation-inline : distinct
- * validation-inline : email
- * validation-inline : ends_with
- * validation-inline : exists
- * validation-inline : file
- * validation-inline : filled
- * validation-inline : gt.numeric
- * validation-inline : gt.file
- * validation-inline : gt.string
- * validation-inline : gt.array
- * validation-inline : gte.numeric
- * validation-inline : gte.file
- * validation-inline : gte.string
- * validation-inline : gte.array
- * validation-inline : image
- * validation-inline : in
- * validation-inline : in_array
- * validation-inline : integer
- * validation-inline : ip
- * validation-inline : ipv4
- * validation-inline : ipv6
- * validation-inline : json
- * validation-inline : lt.numeric
- * validation-inline : lt.file
- * validation-inline : lt.string
- * validation-inline : lt.array
- * validation-inline : lte.numeric
- * validation-inline : lte.file
- * validation-inline : lte.string
- * validation-inline : lte.array
- * validation-inline : max.numeric
- * validation-inline : max.file
- * validation-inline : max.string
- * validation-inline : max.array
- * validation-inline : mimes
- * validation-inline : mimetypes
- * validation-inline : min.numeric
- * validation-inline : min.file
- * validation-inline : min.string
- * validation-inline : min.array
- * validation-inline : not_in
- * validation-inline : not_regex
- * validation-inline : numeric
- * validation-inline : password
- * validation-inline : present
- * validation-inline : regex
- * validation-inline : required
- * validation-inline : required_if
- * validation-inline : required_unless
- * validation-inline : required_with
- * validation-inline : required_with_all
- * validation-inline : required_without
- * validation-inline : required_without_all
- * validation-inline : same
- * validation-inline : size.numeric
- * validation-inline : size.file
- * validation-inline : size.string
- * validation-inline : size.array
- * validation-inline : starts_with
- * validation-inline : string
- * validation-inline : timezone
- * validation-inline : unique
- * validation-inline : uploaded
- * validation-inline : url
- * validation-inline : uuid
 
 [ [to top](#todo-list) ]
 </details>
@@ -10698,7 +7132,7 @@ into your web browser:
 ## si
 
 <details>
-<summary>show<small> (all missing: 263, including not present: 110)</small></summary>
+<summary>show<small> (all missing: 173, including not present: 110)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -10874,96 +7308,6 @@ into your web browser:
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
  * json : Your email address is not verified.
- * validation : ends_with
- * validation : password
- * validation-inline : accepted
- * validation-inline : active_url
- * validation-inline : after
- * validation-inline : after_or_equal
- * validation-inline : alpha
- * validation-inline : alpha_dash
- * validation-inline : alpha_num
- * validation-inline : array
- * validation-inline : before
- * validation-inline : before_or_equal
- * validation-inline : between.numeric
- * validation-inline : between.file
- * validation-inline : between.string
- * validation-inline : between.array
- * validation-inline : boolean
- * validation-inline : confirmed
- * validation-inline : date
- * validation-inline : date_equals
- * validation-inline : date_format
- * validation-inline : different
- * validation-inline : digits
- * validation-inline : digits_between
- * validation-inline : dimensions
- * validation-inline : distinct
- * validation-inline : email
- * validation-inline : ends_with
- * validation-inline : exists
- * validation-inline : file
- * validation-inline : filled
- * validation-inline : gt.numeric
- * validation-inline : gt.file
- * validation-inline : gt.string
- * validation-inline : gt.array
- * validation-inline : gte.numeric
- * validation-inline : gte.file
- * validation-inline : gte.string
- * validation-inline : gte.array
- * validation-inline : image
- * validation-inline : in
- * validation-inline : in_array
- * validation-inline : integer
- * validation-inline : ip
- * validation-inline : ipv4
- * validation-inline : ipv6
- * validation-inline : json
- * validation-inline : lt.numeric
- * validation-inline : lt.file
- * validation-inline : lt.string
- * validation-inline : lt.array
- * validation-inline : lte.numeric
- * validation-inline : lte.file
- * validation-inline : lte.string
- * validation-inline : lte.array
- * validation-inline : max.numeric
- * validation-inline : max.file
- * validation-inline : max.string
- * validation-inline : max.array
- * validation-inline : mimes
- * validation-inline : mimetypes
- * validation-inline : min.numeric
- * validation-inline : min.file
- * validation-inline : min.string
- * validation-inline : min.array
- * validation-inline : not_in
- * validation-inline : not_regex
- * validation-inline : numeric
- * validation-inline : password
- * validation-inline : present
- * validation-inline : regex
- * validation-inline : required
- * validation-inline : required_if
- * validation-inline : required_unless
- * validation-inline : required_with
- * validation-inline : required_with_all
- * validation-inline : required_without
- * validation-inline : required_without_all
- * validation-inline : same
- * validation-inline : size.numeric
- * validation-inline : size.file
- * validation-inline : size.string
- * validation-inline : size.array
- * validation-inline : starts_with
- * validation-inline : string
- * validation-inline : timezone
- * validation-inline : unique
- * validation-inline : uploaded
- * validation-inline : url
- * validation-inline : uuid
 
 [ [to top](#todo-list) ]
 </details>
@@ -10971,7 +7315,7 @@ into your web browser:
 ## sk
 
 <details>
-<summary>show<small> (all missing: 217, including not present: 112)</small></summary>
+<summary>show<small> (all missing: 129, including not present: 112)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -11102,94 +7446,6 @@ into your web browser:
  * json : You may delete any of your existing tokens if they are no longer needed. : not present
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
- * validation-inline : accepted
- * validation-inline : active_url
- * validation-inline : after
- * validation-inline : after_or_equal
- * validation-inline : alpha
- * validation-inline : alpha_dash
- * validation-inline : alpha_num
- * validation-inline : array
- * validation-inline : before
- * validation-inline : before_or_equal
- * validation-inline : between.numeric
- * validation-inline : between.file
- * validation-inline : between.string
- * validation-inline : between.array
- * validation-inline : boolean
- * validation-inline : confirmed
- * validation-inline : date
- * validation-inline : date_equals
- * validation-inline : date_format
- * validation-inline : different
- * validation-inline : digits
- * validation-inline : digits_between
- * validation-inline : dimensions
- * validation-inline : distinct
- * validation-inline : email
- * validation-inline : ends_with
- * validation-inline : exists
- * validation-inline : file
- * validation-inline : filled
- * validation-inline : gt.numeric
- * validation-inline : gt.file
- * validation-inline : gt.string
- * validation-inline : gt.array
- * validation-inline : gte.numeric
- * validation-inline : gte.file
- * validation-inline : gte.string
- * validation-inline : gte.array
- * validation-inline : image
- * validation-inline : in
- * validation-inline : in_array
- * validation-inline : integer
- * validation-inline : ip
- * validation-inline : ipv4
- * validation-inline : ipv6
- * validation-inline : json
- * validation-inline : lt.numeric
- * validation-inline : lt.file
- * validation-inline : lt.string
- * validation-inline : lt.array
- * validation-inline : lte.numeric
- * validation-inline : lte.file
- * validation-inline : lte.string
- * validation-inline : lte.array
- * validation-inline : max.numeric
- * validation-inline : max.file
- * validation-inline : max.string
- * validation-inline : max.array
- * validation-inline : mimes
- * validation-inline : mimetypes
- * validation-inline : min.numeric
- * validation-inline : min.file
- * validation-inline : min.string
- * validation-inline : min.array
- * validation-inline : not_in
- * validation-inline : not_regex
- * validation-inline : numeric
- * validation-inline : password
- * validation-inline : present
- * validation-inline : regex
- * validation-inline : required
- * validation-inline : required_if
- * validation-inline : required_unless
- * validation-inline : required_with
- * validation-inline : required_with_all
- * validation-inline : required_without
- * validation-inline : required_without_all
- * validation-inline : same
- * validation-inline : size.numeric
- * validation-inline : size.file
- * validation-inline : size.string
- * validation-inline : size.array
- * validation-inline : starts_with
- * validation-inline : string
- * validation-inline : timezone
- * validation-inline : unique
- * validation-inline : uploaded
- * validation-inline : url
- * validation-inline : uuid
 
 [ [to top](#todo-list) ]
 </details>
@@ -11197,7 +7453,7 @@ into your web browser:
 ## sl
 
 <details>
-<summary>show<small> (all missing: 250, including not present: 142)</small></summary>
+<summary>show<small> (all missing: 159, including not present: 142)</small></summary>
 
  * json : A fresh verification link has been sent to your email address. : not present
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -11359,97 +7615,6 @@ into your web browser: : not present
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
  * json : Your email address is not verified. : not present
- * passwords : throttled
- * validation : ends_with
- * validation : password
- * validation-inline : accepted
- * validation-inline : active_url
- * validation-inline : after
- * validation-inline : after_or_equal
- * validation-inline : alpha
- * validation-inline : alpha_dash
- * validation-inline : alpha_num
- * validation-inline : array
- * validation-inline : before
- * validation-inline : before_or_equal
- * validation-inline : between.numeric
- * validation-inline : between.file
- * validation-inline : between.string
- * validation-inline : between.array
- * validation-inline : boolean
- * validation-inline : confirmed
- * validation-inline : date
- * validation-inline : date_equals
- * validation-inline : date_format
- * validation-inline : different
- * validation-inline : digits
- * validation-inline : digits_between
- * validation-inline : dimensions
- * validation-inline : distinct
- * validation-inline : email
- * validation-inline : ends_with
- * validation-inline : exists
- * validation-inline : file
- * validation-inline : filled
- * validation-inline : gt.numeric
- * validation-inline : gt.file
- * validation-inline : gt.string
- * validation-inline : gt.array
- * validation-inline : gte.numeric
- * validation-inline : gte.file
- * validation-inline : gte.string
- * validation-inline : gte.array
- * validation-inline : image
- * validation-inline : in
- * validation-inline : in_array
- * validation-inline : integer
- * validation-inline : ip
- * validation-inline : ipv4
- * validation-inline : ipv6
- * validation-inline : json
- * validation-inline : lt.numeric
- * validation-inline : lt.file
- * validation-inline : lt.string
- * validation-inline : lt.array
- * validation-inline : lte.numeric
- * validation-inline : lte.file
- * validation-inline : lte.string
- * validation-inline : lte.array
- * validation-inline : max.numeric
- * validation-inline : max.file
- * validation-inline : max.string
- * validation-inline : max.array
- * validation-inline : mimes
- * validation-inline : mimetypes
- * validation-inline : min.numeric
- * validation-inline : min.file
- * validation-inline : min.string
- * validation-inline : min.array
- * validation-inline : not_in
- * validation-inline : not_regex
- * validation-inline : numeric
- * validation-inline : password
- * validation-inline : present
- * validation-inline : regex
- * validation-inline : required
- * validation-inline : required_if
- * validation-inline : required_unless
- * validation-inline : required_with
- * validation-inline : required_with_all
- * validation-inline : required_without
- * validation-inline : required_without_all
- * validation-inline : same
- * validation-inline : size.numeric
- * validation-inline : size.file
- * validation-inline : size.string
- * validation-inline : size.array
- * validation-inline : starts_with
- * validation-inline : string
- * validation-inline : timezone
- * validation-inline : unique
- * validation-inline : uploaded
- * validation-inline : url
- * validation-inline : uuid
 
 [ [to top](#todo-list) ]
 </details>
@@ -11680,7 +7845,7 @@ into your web browser:
 ## sv
 
 <details>
-<summary>show<small> (all missing: 217, including not present: 112)</small></summary>
+<summary>show<small> (all missing: 129, including not present: 112)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -11811,94 +7976,6 @@ into your web browser:
  * json : You may delete any of your existing tokens if they are no longer needed. : not present
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
- * validation-inline : accepted
- * validation-inline : active_url
- * validation-inline : after
- * validation-inline : after_or_equal
- * validation-inline : alpha
- * validation-inline : alpha_dash
- * validation-inline : alpha_num
- * validation-inline : array
- * validation-inline : before
- * validation-inline : before_or_equal
- * validation-inline : between.numeric
- * validation-inline : between.file
- * validation-inline : between.string
- * validation-inline : between.array
- * validation-inline : boolean
- * validation-inline : confirmed
- * validation-inline : date
- * validation-inline : date_equals
- * validation-inline : date_format
- * validation-inline : different
- * validation-inline : digits
- * validation-inline : digits_between
- * validation-inline : dimensions
- * validation-inline : distinct
- * validation-inline : email
- * validation-inline : ends_with
- * validation-inline : exists
- * validation-inline : file
- * validation-inline : filled
- * validation-inline : gt.numeric
- * validation-inline : gt.file
- * validation-inline : gt.string
- * validation-inline : gt.array
- * validation-inline : gte.numeric
- * validation-inline : gte.file
- * validation-inline : gte.string
- * validation-inline : gte.array
- * validation-inline : image
- * validation-inline : in
- * validation-inline : in_array
- * validation-inline : integer
- * validation-inline : ip
- * validation-inline : ipv4
- * validation-inline : ipv6
- * validation-inline : json
- * validation-inline : lt.numeric
- * validation-inline : lt.file
- * validation-inline : lt.string
- * validation-inline : lt.array
- * validation-inline : lte.numeric
- * validation-inline : lte.file
- * validation-inline : lte.string
- * validation-inline : lte.array
- * validation-inline : max.numeric
- * validation-inline : max.file
- * validation-inline : max.string
- * validation-inline : max.array
- * validation-inline : mimes
- * validation-inline : mimetypes
- * validation-inline : min.numeric
- * validation-inline : min.file
- * validation-inline : min.string
- * validation-inline : min.array
- * validation-inline : not_in
- * validation-inline : not_regex
- * validation-inline : numeric
- * validation-inline : password
- * validation-inline : present
- * validation-inline : regex
- * validation-inline : required
- * validation-inline : required_if
- * validation-inline : required_unless
- * validation-inline : required_with
- * validation-inline : required_with_all
- * validation-inline : required_without
- * validation-inline : required_without_all
- * validation-inline : same
- * validation-inline : size.numeric
- * validation-inline : size.file
- * validation-inline : size.string
- * validation-inline : size.array
- * validation-inline : starts_with
- * validation-inline : string
- * validation-inline : timezone
- * validation-inline : unique
- * validation-inline : uploaded
- * validation-inline : url
- * validation-inline : uuid
 
 [ [to top](#todo-list) ]
 </details>
@@ -11906,7 +7983,7 @@ into your web browser:
 ## sw
 
 <details>
-<summary>show<small> (all missing: 264, including not present: 110)</small></summary>
+<summary>show<small> (all missing: 173, including not present: 110)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -12082,97 +8159,6 @@ into your web browser:
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
  * json : Your email address is not verified.
- * passwords : throttled
- * validation : ends_with
- * validation : password
- * validation-inline : accepted
- * validation-inline : active_url
- * validation-inline : after
- * validation-inline : after_or_equal
- * validation-inline : alpha
- * validation-inline : alpha_dash
- * validation-inline : alpha_num
- * validation-inline : array
- * validation-inline : before
- * validation-inline : before_or_equal
- * validation-inline : between.numeric
- * validation-inline : between.file
- * validation-inline : between.string
- * validation-inline : between.array
- * validation-inline : boolean
- * validation-inline : confirmed
- * validation-inline : date
- * validation-inline : date_equals
- * validation-inline : date_format
- * validation-inline : different
- * validation-inline : digits
- * validation-inline : digits_between
- * validation-inline : dimensions
- * validation-inline : distinct
- * validation-inline : email
- * validation-inline : ends_with
- * validation-inline : exists
- * validation-inline : file
- * validation-inline : filled
- * validation-inline : gt.numeric
- * validation-inline : gt.file
- * validation-inline : gt.string
- * validation-inline : gt.array
- * validation-inline : gte.numeric
- * validation-inline : gte.file
- * validation-inline : gte.string
- * validation-inline : gte.array
- * validation-inline : image
- * validation-inline : in
- * validation-inline : in_array
- * validation-inline : integer
- * validation-inline : ip
- * validation-inline : ipv4
- * validation-inline : ipv6
- * validation-inline : json
- * validation-inline : lt.numeric
- * validation-inline : lt.file
- * validation-inline : lt.string
- * validation-inline : lt.array
- * validation-inline : lte.numeric
- * validation-inline : lte.file
- * validation-inline : lte.string
- * validation-inline : lte.array
- * validation-inline : max.numeric
- * validation-inline : max.file
- * validation-inline : max.string
- * validation-inline : max.array
- * validation-inline : mimes
- * validation-inline : mimetypes
- * validation-inline : min.numeric
- * validation-inline : min.file
- * validation-inline : min.string
- * validation-inline : min.array
- * validation-inline : not_in
- * validation-inline : not_regex
- * validation-inline : numeric
- * validation-inline : password
- * validation-inline : present
- * validation-inline : regex
- * validation-inline : required
- * validation-inline : required_if
- * validation-inline : required_unless
- * validation-inline : required_with
- * validation-inline : required_with_all
- * validation-inline : required_without
- * validation-inline : required_without_all
- * validation-inline : same
- * validation-inline : size.numeric
- * validation-inline : size.file
- * validation-inline : size.string
- * validation-inline : size.array
- * validation-inline : starts_with
- * validation-inline : string
- * validation-inline : timezone
- * validation-inline : unique
- * validation-inline : uploaded
- * validation-inline : url
- * validation-inline : uuid
 
 [ [to top](#todo-list) ]
 </details>
@@ -12180,7 +8166,7 @@ into your web browser:
 ## tg
 
 <details>
-<summary>show<small> (all missing: 286, including not present: 110)</small></summary>
+<summary>show<small> (all missing: 173, including not present: 110)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -12356,119 +8342,6 @@ into your web browser:
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
  * json : Your email address is not verified.
- * passwords : throttled
- * validation : date_equals
- * validation : ends_with
- * validation : gt.numeric
- * validation : gt.file
- * validation : gt.string
- * validation : gt.array
- * validation : gte.numeric
- * validation : gte.file
- * validation : gte.string
- * validation : gte.array
- * validation : ipv4
- * validation : ipv6
- * validation : lt.numeric
- * validation : lt.file
- * validation : lt.string
- * validation : lt.array
- * validation : lte.numeric
- * validation : lte.file
- * validation : lte.string
- * validation : lte.array
- * validation : not_regex
- * validation : password
- * validation : starts_with
- * validation : uuid
- * validation-inline : accepted
- * validation-inline : active_url
- * validation-inline : after
- * validation-inline : after_or_equal
- * validation-inline : alpha
- * validation-inline : alpha_dash
- * validation-inline : alpha_num
- * validation-inline : array
- * validation-inline : before
- * validation-inline : before_or_equal
- * validation-inline : between.numeric
- * validation-inline : between.file
- * validation-inline : between.string
- * validation-inline : between.array
- * validation-inline : boolean
- * validation-inline : confirmed
- * validation-inline : date
- * validation-inline : date_equals
- * validation-inline : date_format
- * validation-inline : different
- * validation-inline : digits
- * validation-inline : digits_between
- * validation-inline : dimensions
- * validation-inline : distinct
- * validation-inline : email
- * validation-inline : ends_with
- * validation-inline : exists
- * validation-inline : file
- * validation-inline : filled
- * validation-inline : gt.numeric
- * validation-inline : gt.file
- * validation-inline : gt.string
- * validation-inline : gt.array
- * validation-inline : gte.numeric
- * validation-inline : gte.file
- * validation-inline : gte.string
- * validation-inline : gte.array
- * validation-inline : image
- * validation-inline : in
- * validation-inline : in_array
- * validation-inline : integer
- * validation-inline : ip
- * validation-inline : ipv4
- * validation-inline : ipv6
- * validation-inline : json
- * validation-inline : lt.numeric
- * validation-inline : lt.file
- * validation-inline : lt.string
- * validation-inline : lt.array
- * validation-inline : lte.numeric
- * validation-inline : lte.file
- * validation-inline : lte.string
- * validation-inline : lte.array
- * validation-inline : max.numeric
- * validation-inline : max.file
- * validation-inline : max.string
- * validation-inline : max.array
- * validation-inline : mimes
- * validation-inline : mimetypes
- * validation-inline : min.numeric
- * validation-inline : min.file
- * validation-inline : min.string
- * validation-inline : min.array
- * validation-inline : not_in
- * validation-inline : not_regex
- * validation-inline : numeric
- * validation-inline : password
- * validation-inline : present
- * validation-inline : regex
- * validation-inline : required
- * validation-inline : required_if
- * validation-inline : required_unless
- * validation-inline : required_with
- * validation-inline : required_with_all
- * validation-inline : required_without
- * validation-inline : required_without_all
- * validation-inline : same
- * validation-inline : size.numeric
- * validation-inline : size.file
- * validation-inline : size.string
- * validation-inline : size.array
- * validation-inline : starts_with
- * validation-inline : string
- * validation-inline : timezone
- * validation-inline : unique
- * validation-inline : uploaded
- * validation-inline : url
- * validation-inline : uuid
 
 [ [to top](#todo-list) ]
 </details>
@@ -12476,7 +8349,7 @@ into your web browser:
 ## th
 
 <details>
-<summary>show<small> (all missing: 234, including not present: 120)</small></summary>
+<summary>show<small> (all missing: 143, including not present: 120)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -12622,97 +8495,6 @@ into your web browser: : not present
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
  * json : Your email address is not verified.
- * passwords : throttled
- * validation : ends_with
- * validation : password
- * validation-inline : accepted
- * validation-inline : active_url
- * validation-inline : after
- * validation-inline : after_or_equal
- * validation-inline : alpha
- * validation-inline : alpha_dash
- * validation-inline : alpha_num
- * validation-inline : array
- * validation-inline : before
- * validation-inline : before_or_equal
- * validation-inline : between.numeric
- * validation-inline : between.file
- * validation-inline : between.string
- * validation-inline : between.array
- * validation-inline : boolean
- * validation-inline : confirmed
- * validation-inline : date
- * validation-inline : date_equals
- * validation-inline : date_format
- * validation-inline : different
- * validation-inline : digits
- * validation-inline : digits_between
- * validation-inline : dimensions
- * validation-inline : distinct
- * validation-inline : email
- * validation-inline : ends_with
- * validation-inline : exists
- * validation-inline : file
- * validation-inline : filled
- * validation-inline : gt.numeric
- * validation-inline : gt.file
- * validation-inline : gt.string
- * validation-inline : gt.array
- * validation-inline : gte.numeric
- * validation-inline : gte.file
- * validation-inline : gte.string
- * validation-inline : gte.array
- * validation-inline : image
- * validation-inline : in
- * validation-inline : in_array
- * validation-inline : integer
- * validation-inline : ip
- * validation-inline : ipv4
- * validation-inline : ipv6
- * validation-inline : json
- * validation-inline : lt.numeric
- * validation-inline : lt.file
- * validation-inline : lt.string
- * validation-inline : lt.array
- * validation-inline : lte.numeric
- * validation-inline : lte.file
- * validation-inline : lte.string
- * validation-inline : lte.array
- * validation-inline : max.numeric
- * validation-inline : max.file
- * validation-inline : max.string
- * validation-inline : max.array
- * validation-inline : mimes
- * validation-inline : mimetypes
- * validation-inline : min.numeric
- * validation-inline : min.file
- * validation-inline : min.string
- * validation-inline : min.array
- * validation-inline : not_in
- * validation-inline : not_regex
- * validation-inline : numeric
- * validation-inline : password
- * validation-inline : present
- * validation-inline : regex
- * validation-inline : required
- * validation-inline : required_if
- * validation-inline : required_unless
- * validation-inline : required_with
- * validation-inline : required_with_all
- * validation-inline : required_without
- * validation-inline : required_without_all
- * validation-inline : same
- * validation-inline : size.numeric
- * validation-inline : size.file
- * validation-inline : size.string
- * validation-inline : size.array
- * validation-inline : starts_with
- * validation-inline : string
- * validation-inline : timezone
- * validation-inline : unique
- * validation-inline : uploaded
- * validation-inline : url
- * validation-inline : uuid
 
 [ [to top](#todo-list) ]
 </details>
@@ -12720,7 +8502,7 @@ into your web browser: : not present
 ## tk
 
 <details>
-<summary>show<small> (all missing: 299, including not present: 110)</small></summary>
+<summary>show<small> (all missing: 173, including not present: 110)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -12896,132 +8678,6 @@ into your web browser:
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
  * json : Your email address is not verified.
- * auth : failed
- * auth : throttle
- * passwords : throttled
- * validation : after_or_equal
- * validation : before_or_equal
- * validation : date_equals
- * validation : dimensions
- * validation : distinct
- * validation : ends_with
- * validation : file
- * validation : gt.numeric
- * validation : gt.file
- * validation : gt.string
- * validation : gt.array
- * validation : gte.numeric
- * validation : gte.file
- * validation : gte.string
- * validation : gte.array
- * validation : in_array
- * validation : ipv4
- * validation : ipv6
- * validation : json
- * validation : lt.numeric
- * validation : lt.file
- * validation : lt.string
- * validation : lt.array
- * validation : lte.numeric
- * validation : lte.file
- * validation : lte.string
- * validation : lte.array
- * validation : not_regex
- * validation : password
- * validation : present
- * validation : required_unless
- * validation : starts_with
- * validation : string
- * validation : uploaded
- * validation : uuid
- * validation-inline : accepted
- * validation-inline : active_url
- * validation-inline : after
- * validation-inline : after_or_equal
- * validation-inline : alpha
- * validation-inline : alpha_dash
- * validation-inline : alpha_num
- * validation-inline : array
- * validation-inline : before
- * validation-inline : before_or_equal
- * validation-inline : between.numeric
- * validation-inline : between.file
- * validation-inline : between.string
- * validation-inline : between.array
- * validation-inline : boolean
- * validation-inline : confirmed
- * validation-inline : date
- * validation-inline : date_equals
- * validation-inline : date_format
- * validation-inline : different
- * validation-inline : digits
- * validation-inline : digits_between
- * validation-inline : dimensions
- * validation-inline : distinct
- * validation-inline : email
- * validation-inline : ends_with
- * validation-inline : exists
- * validation-inline : file
- * validation-inline : filled
- * validation-inline : gt.numeric
- * validation-inline : gt.file
- * validation-inline : gt.string
- * validation-inline : gt.array
- * validation-inline : gte.numeric
- * validation-inline : gte.file
- * validation-inline : gte.string
- * validation-inline : gte.array
- * validation-inline : image
- * validation-inline : in
- * validation-inline : in_array
- * validation-inline : integer
- * validation-inline : ip
- * validation-inline : ipv4
- * validation-inline : ipv6
- * validation-inline : json
- * validation-inline : lt.numeric
- * validation-inline : lt.file
- * validation-inline : lt.string
- * validation-inline : lt.array
- * validation-inline : lte.numeric
- * validation-inline : lte.file
- * validation-inline : lte.string
- * validation-inline : lte.array
- * validation-inline : max.numeric
- * validation-inline : max.file
- * validation-inline : max.string
- * validation-inline : max.array
- * validation-inline : mimes
- * validation-inline : mimetypes
- * validation-inline : min.numeric
- * validation-inline : min.file
- * validation-inline : min.string
- * validation-inline : min.array
- * validation-inline : not_in
- * validation-inline : not_regex
- * validation-inline : numeric
- * validation-inline : password
- * validation-inline : present
- * validation-inline : regex
- * validation-inline : required
- * validation-inline : required_if
- * validation-inline : required_unless
- * validation-inline : required_with
- * validation-inline : required_with_all
- * validation-inline : required_without
- * validation-inline : required_without_all
- * validation-inline : same
- * validation-inline : size.numeric
- * validation-inline : size.file
- * validation-inline : size.string
- * validation-inline : size.array
- * validation-inline : starts_with
- * validation-inline : string
- * validation-inline : timezone
- * validation-inline : unique
- * validation-inline : uploaded
- * validation-inline : url
- * validation-inline : uuid
 
 [ [to top](#todo-list) ]
 </details>
@@ -13029,7 +8685,7 @@ into your web browser:
 ## tl
 
 <details>
-<summary>show<small> (all missing: 292, including not present: 110)</small></summary>
+<summary>show<small> (all missing: 173, including not present: 110)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -13205,125 +8861,6 @@ into your web browser:
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
  * json : Your email address is not verified.
- * passwords : throttled
- * validation : after_or_equal
- * validation : before_or_equal
- * validation : date_equals
- * validation : dimensions
- * validation : ends_with
- * validation : file
- * validation : gt.numeric
- * validation : gt.file
- * validation : gt.string
- * validation : gt.array
- * validation : gte.numeric
- * validation : gte.file
- * validation : gte.string
- * validation : gte.array
- * validation : ipv4
- * validation : ipv6
- * validation : lt.numeric
- * validation : lt.file
- * validation : lt.string
- * validation : lt.array
- * validation : lte.numeric
- * validation : lte.file
- * validation : lte.string
- * validation : lte.array
- * validation : mimetypes
- * validation : not_regex
- * validation : password
- * validation : starts_with
- * validation : uploaded
- * validation : uuid
- * validation-inline : accepted
- * validation-inline : active_url
- * validation-inline : after
- * validation-inline : after_or_equal
- * validation-inline : alpha
- * validation-inline : alpha_dash
- * validation-inline : alpha_num
- * validation-inline : array
- * validation-inline : before
- * validation-inline : before_or_equal
- * validation-inline : between.numeric
- * validation-inline : between.file
- * validation-inline : between.string
- * validation-inline : between.array
- * validation-inline : boolean
- * validation-inline : confirmed
- * validation-inline : date
- * validation-inline : date_equals
- * validation-inline : date_format
- * validation-inline : different
- * validation-inline : digits
- * validation-inline : digits_between
- * validation-inline : dimensions
- * validation-inline : distinct
- * validation-inline : email
- * validation-inline : ends_with
- * validation-inline : exists
- * validation-inline : file
- * validation-inline : filled
- * validation-inline : gt.numeric
- * validation-inline : gt.file
- * validation-inline : gt.string
- * validation-inline : gt.array
- * validation-inline : gte.numeric
- * validation-inline : gte.file
- * validation-inline : gte.string
- * validation-inline : gte.array
- * validation-inline : image
- * validation-inline : in
- * validation-inline : in_array
- * validation-inline : integer
- * validation-inline : ip
- * validation-inline : ipv4
- * validation-inline : ipv6
- * validation-inline : json
- * validation-inline : lt.numeric
- * validation-inline : lt.file
- * validation-inline : lt.string
- * validation-inline : lt.array
- * validation-inline : lte.numeric
- * validation-inline : lte.file
- * validation-inline : lte.string
- * validation-inline : lte.array
- * validation-inline : max.numeric
- * validation-inline : max.file
- * validation-inline : max.string
- * validation-inline : max.array
- * validation-inline : mimes
- * validation-inline : mimetypes
- * validation-inline : min.numeric
- * validation-inline : min.file
- * validation-inline : min.string
- * validation-inline : min.array
- * validation-inline : not_in
- * validation-inline : not_regex
- * validation-inline : numeric
- * validation-inline : password
- * validation-inline : present
- * validation-inline : regex
- * validation-inline : required
- * validation-inline : required_if
- * validation-inline : required_unless
- * validation-inline : required_with
- * validation-inline : required_with_all
- * validation-inline : required_without
- * validation-inline : required_without_all
- * validation-inline : same
- * validation-inline : size.numeric
- * validation-inline : size.file
- * validation-inline : size.string
- * validation-inline : size.array
- * validation-inline : starts_with
- * validation-inline : string
- * validation-inline : timezone
- * validation-inline : unique
- * validation-inline : uploaded
- * validation-inline : url
- * validation-inline : uuid
 
 [ [to top](#todo-list) ]
 </details>
@@ -13331,7 +8868,7 @@ into your web browser:
 ## tr
 
 <details>
-<summary>show<small> (all missing: 201, including not present: 110)</small></summary>
+<summary>show<small> (all missing: 119, including not present: 110)</small></summary>
 
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
  * json : Add additional security to your account using two factor authentication. : not present
@@ -13452,88 +8989,6 @@ into your web browser:
  * json : You may delete any of your existing tokens if they are no longer needed. : not present
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
- * validation-inline : accepted
- * validation-inline : after
- * validation-inline : after_or_equal
- * validation-inline : alpha_dash
- * validation-inline : alpha_num
- * validation-inline : before
- * validation-inline : before_or_equal
- * validation-inline : between.numeric
- * validation-inline : between.file
- * validation-inline : between.string
- * validation-inline : between.array
- * validation-inline : boolean
- * validation-inline : confirmed
- * validation-inline : date
- * validation-inline : date_equals
- * validation-inline : date_format
- * validation-inline : different
- * validation-inline : digits
- * validation-inline : digits_between
- * validation-inline : distinct
- * validation-inline : ends_with
- * validation-inline : exists
- * validation-inline : filled
- * validation-inline : gt.numeric
- * validation-inline : gt.file
- * validation-inline : gt.string
- * validation-inline : gt.array
- * validation-inline : gte.numeric
- * validation-inline : gte.file
- * validation-inline : gte.string
- * validation-inline : gte.array
- * validation-inline : image
- * validation-inline : in
- * validation-inline : in_array
- * validation-inline : integer
- * validation-inline : ip
- * validation-inline : ipv4
- * validation-inline : ipv6
- * validation-inline : json
- * validation-inline : lt.numeric
- * validation-inline : lt.file
- * validation-inline : lt.string
- * validation-inline : lt.array
- * validation-inline : lte.numeric
- * validation-inline : lte.file
- * validation-inline : lte.string
- * validation-inline : lte.array
- * validation-inline : max.numeric
- * validation-inline : max.file
- * validation-inline : max.string
- * validation-inline : max.array
- * validation-inline : mimes
- * validation-inline : mimetypes
- * validation-inline : min.numeric
- * validation-inline : min.file
- * validation-inline : min.string
- * validation-inline : min.array
- * validation-inline : not_in
- * validation-inline : not_regex
- * validation-inline : numeric
- * validation-inline : password
- * validation-inline : present
- * validation-inline : regex
- * validation-inline : required
- * validation-inline : required_if
- * validation-inline : required_unless
- * validation-inline : required_with
- * validation-inline : required_with_all
- * validation-inline : required_without
- * validation-inline : required_without_all
- * validation-inline : same
- * validation-inline : size.numeric
- * validation-inline : size.file
- * validation-inline : size.string
- * validation-inline : size.array
- * validation-inline : starts_with
- * validation-inline : string
- * validation-inline : timezone
- * validation-inline : unique
- * validation-inline : uploaded
- * validation-inline : url
- * validation-inline : uuid
 
 [ [to top](#todo-list) ]
 </details>
@@ -13541,7 +8996,7 @@ into your web browser:
 ## ug
 
 <details>
-<summary>show<small> (all missing: 284, including not present: 110)</small></summary>
+<summary>show<small> (all missing: 173, including not present: 110)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -13717,117 +9172,6 @@ into your web browser:
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
  * json : Your email address is not verified.
- * passwords : throttled
- * validation : date_equals
- * validation : ends_with
- * validation : gt.numeric
- * validation : gt.file
- * validation : gt.string
- * validation : gt.array
- * validation : gte.numeric
- * validation : gte.file
- * validation : gte.string
- * validation : gte.array
- * validation : lt.numeric
- * validation : lt.file
- * validation : lt.string
- * validation : lt.array
- * validation : lte.numeric
- * validation : lte.file
- * validation : lte.string
- * validation : lte.array
- * validation : not_regex
- * validation : password
- * validation : starts_with
- * validation : uuid
- * validation-inline : accepted
- * validation-inline : active_url
- * validation-inline : after
- * validation-inline : after_or_equal
- * validation-inline : alpha
- * validation-inline : alpha_dash
- * validation-inline : alpha_num
- * validation-inline : array
- * validation-inline : before
- * validation-inline : before_or_equal
- * validation-inline : between.numeric
- * validation-inline : between.file
- * validation-inline : between.string
- * validation-inline : between.array
- * validation-inline : boolean
- * validation-inline : confirmed
- * validation-inline : date
- * validation-inline : date_equals
- * validation-inline : date_format
- * validation-inline : different
- * validation-inline : digits
- * validation-inline : digits_between
- * validation-inline : dimensions
- * validation-inline : distinct
- * validation-inline : email
- * validation-inline : ends_with
- * validation-inline : exists
- * validation-inline : file
- * validation-inline : filled
- * validation-inline : gt.numeric
- * validation-inline : gt.file
- * validation-inline : gt.string
- * validation-inline : gt.array
- * validation-inline : gte.numeric
- * validation-inline : gte.file
- * validation-inline : gte.string
- * validation-inline : gte.array
- * validation-inline : image
- * validation-inline : in
- * validation-inline : in_array
- * validation-inline : integer
- * validation-inline : ip
- * validation-inline : ipv4
- * validation-inline : ipv6
- * validation-inline : json
- * validation-inline : lt.numeric
- * validation-inline : lt.file
- * validation-inline : lt.string
- * validation-inline : lt.array
- * validation-inline : lte.numeric
- * validation-inline : lte.file
- * validation-inline : lte.string
- * validation-inline : lte.array
- * validation-inline : max.numeric
- * validation-inline : max.file
- * validation-inline : max.string
- * validation-inline : max.array
- * validation-inline : mimes
- * validation-inline : mimetypes
- * validation-inline : min.numeric
- * validation-inline : min.file
- * validation-inline : min.string
- * validation-inline : min.array
- * validation-inline : not_in
- * validation-inline : not_regex
- * validation-inline : numeric
- * validation-inline : password
- * validation-inline : present
- * validation-inline : regex
- * validation-inline : required
- * validation-inline : required_if
- * validation-inline : required_unless
- * validation-inline : required_with
- * validation-inline : required_with_all
- * validation-inline : required_without
- * validation-inline : required_without_all
- * validation-inline : same
- * validation-inline : size.numeric
- * validation-inline : size.file
- * validation-inline : size.string
- * validation-inline : size.array
- * validation-inline : starts_with
- * validation-inline : string
- * validation-inline : timezone
- * validation-inline : unique
- * validation-inline : uploaded
- * validation-inline : url
- * validation-inline : uuid
 
 [ [to top](#todo-list) ]
 </details>
@@ -13971,7 +9315,7 @@ into your web browser:
 ## ur
 
 <details>
-<summary>show<small> (all missing: 278, including not present: 110)</small></summary>
+<summary>show<small> (all missing: 159, including not present: 110)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -14133,125 +9477,6 @@ into your web browser:
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
  * json : Your email address is not verified.
- * passwords : throttled
- * validation : after_or_equal
- * validation : before_or_equal
- * validation : date_equals
- * validation : dimensions
- * validation : ends_with
- * validation : file
- * validation : gt.numeric
- * validation : gt.file
- * validation : gt.string
- * validation : gt.array
- * validation : gte.numeric
- * validation : gte.file
- * validation : gte.string
- * validation : gte.array
- * validation : ipv4
- * validation : ipv6
- * validation : lt.numeric
- * validation : lt.file
- * validation : lt.string
- * validation : lt.array
- * validation : lte.numeric
- * validation : lte.file
- * validation : lte.string
- * validation : lte.array
- * validation : mimetypes
- * validation : not_regex
- * validation : password
- * validation : starts_with
- * validation : uploaded
- * validation : uuid
- * validation-inline : accepted
- * validation-inline : active_url
- * validation-inline : after
- * validation-inline : after_or_equal
- * validation-inline : alpha
- * validation-inline : alpha_dash
- * validation-inline : alpha_num
- * validation-inline : array
- * validation-inline : before
- * validation-inline : before_or_equal
- * validation-inline : between.numeric
- * validation-inline : between.file
- * validation-inline : between.string
- * validation-inline : between.array
- * validation-inline : boolean
- * validation-inline : confirmed
- * validation-inline : date
- * validation-inline : date_equals
- * validation-inline : date_format
- * validation-inline : different
- * validation-inline : digits
- * validation-inline : digits_between
- * validation-inline : dimensions
- * validation-inline : distinct
- * validation-inline : email
- * validation-inline : ends_with
- * validation-inline : exists
- * validation-inline : file
- * validation-inline : filled
- * validation-inline : gt.numeric
- * validation-inline : gt.file
- * validation-inline : gt.string
- * validation-inline : gt.array
- * validation-inline : gte.numeric
- * validation-inline : gte.file
- * validation-inline : gte.string
- * validation-inline : gte.array
- * validation-inline : image
- * validation-inline : in
- * validation-inline : in_array
- * validation-inline : integer
- * validation-inline : ip
- * validation-inline : ipv4
- * validation-inline : ipv6
- * validation-inline : json
- * validation-inline : lt.numeric
- * validation-inline : lt.file
- * validation-inline : lt.string
- * validation-inline : lt.array
- * validation-inline : lte.numeric
- * validation-inline : lte.file
- * validation-inline : lte.string
- * validation-inline : lte.array
- * validation-inline : max.numeric
- * validation-inline : max.file
- * validation-inline : max.string
- * validation-inline : max.array
- * validation-inline : mimes
- * validation-inline : mimetypes
- * validation-inline : min.numeric
- * validation-inline : min.file
- * validation-inline : min.string
- * validation-inline : min.array
- * validation-inline : not_in
- * validation-inline : not_regex
- * validation-inline : numeric
- * validation-inline : password
- * validation-inline : present
- * validation-inline : regex
- * validation-inline : required
- * validation-inline : required_if
- * validation-inline : required_unless
- * validation-inline : required_with
- * validation-inline : required_with_all
- * validation-inline : required_without
- * validation-inline : required_without_all
- * validation-inline : same
- * validation-inline : size.numeric
- * validation-inline : size.file
- * validation-inline : size.string
- * validation-inline : size.array
- * validation-inline : starts_with
- * validation-inline : string
- * validation-inline : timezone
- * validation-inline : unique
- * validation-inline : uploaded
- * validation-inline : url
- * validation-inline : uuid
 
 [ [to top](#todo-list) ]
 </details>
@@ -14259,7 +9484,7 @@ into your web browser:
 ## uz_Cyrillic
 
 <details>
-<summary>show<small> (all missing: 261, including not present: 110)</small></summary>
+<summary>show<small> (all missing: 173, including not present: 110)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -14435,94 +9660,6 @@ into your web browser:
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
  * json : Your email address is not verified.
- * validation-inline : accepted
- * validation-inline : active_url
- * validation-inline : after
- * validation-inline : after_or_equal
- * validation-inline : alpha
- * validation-inline : alpha_dash
- * validation-inline : alpha_num
- * validation-inline : array
- * validation-inline : before
- * validation-inline : before_or_equal
- * validation-inline : between.numeric
- * validation-inline : between.file
- * validation-inline : between.string
- * validation-inline : between.array
- * validation-inline : boolean
- * validation-inline : confirmed
- * validation-inline : date
- * validation-inline : date_equals
- * validation-inline : date_format
- * validation-inline : different
- * validation-inline : digits
- * validation-inline : digits_between
- * validation-inline : dimensions
- * validation-inline : distinct
- * validation-inline : email
- * validation-inline : ends_with
- * validation-inline : exists
- * validation-inline : file
- * validation-inline : filled
- * validation-inline : gt.numeric
- * validation-inline : gt.file
- * validation-inline : gt.string
- * validation-inline : gt.array
- * validation-inline : gte.numeric
- * validation-inline : gte.file
- * validation-inline : gte.string
- * validation-inline : gte.array
- * validation-inline : image
- * validation-inline : in
- * validation-inline : in_array
- * validation-inline : integer
- * validation-inline : ip
- * validation-inline : ipv4
- * validation-inline : ipv6
- * validation-inline : json
- * validation-inline : lt.numeric
- * validation-inline : lt.file
- * validation-inline : lt.string
- * validation-inline : lt.array
- * validation-inline : lte.numeric
- * validation-inline : lte.file
- * validation-inline : lte.string
- * validation-inline : lte.array
- * validation-inline : max.numeric
- * validation-inline : max.file
- * validation-inline : max.string
- * validation-inline : max.array
- * validation-inline : mimes
- * validation-inline : mimetypes
- * validation-inline : min.numeric
- * validation-inline : min.file
- * validation-inline : min.string
- * validation-inline : min.array
- * validation-inline : not_in
- * validation-inline : not_regex
- * validation-inline : numeric
- * validation-inline : password
- * validation-inline : present
- * validation-inline : regex
- * validation-inline : required
- * validation-inline : required_if
- * validation-inline : required_unless
- * validation-inline : required_with
- * validation-inline : required_with_all
- * validation-inline : required_without
- * validation-inline : required_without_all
- * validation-inline : same
- * validation-inline : size.numeric
- * validation-inline : size.file
- * validation-inline : size.string
- * validation-inline : size.array
- * validation-inline : starts_with
- * validation-inline : string
- * validation-inline : timezone
- * validation-inline : unique
- * validation-inline : uploaded
- * validation-inline : url
- * validation-inline : uuid
 
 [ [to top](#todo-list) ]
 </details>
@@ -14530,7 +9667,7 @@ into your web browser:
 ## uz_Latin
 
 <details>
-<summary>show<small> (all missing: 261, including not present: 110)</small></summary>
+<summary>show<small> (all missing: 173, including not present: 110)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -14706,94 +9843,6 @@ into your web browser:
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
  * json : Your email address is not verified.
- * validation-inline : accepted
- * validation-inline : active_url
- * validation-inline : after
- * validation-inline : after_or_equal
- * validation-inline : alpha
- * validation-inline : alpha_dash
- * validation-inline : alpha_num
- * validation-inline : array
- * validation-inline : before
- * validation-inline : before_or_equal
- * validation-inline : between.numeric
- * validation-inline : between.file
- * validation-inline : between.string
- * validation-inline : between.array
- * validation-inline : boolean
- * validation-inline : confirmed
- * validation-inline : date
- * validation-inline : date_equals
- * validation-inline : date_format
- * validation-inline : different
- * validation-inline : digits
- * validation-inline : digits_between
- * validation-inline : dimensions
- * validation-inline : distinct
- * validation-inline : email
- * validation-inline : ends_with
- * validation-inline : exists
- * validation-inline : file
- * validation-inline : filled
- * validation-inline : gt.numeric
- * validation-inline : gt.file
- * validation-inline : gt.string
- * validation-inline : gt.array
- * validation-inline : gte.numeric
- * validation-inline : gte.file
- * validation-inline : gte.string
- * validation-inline : gte.array
- * validation-inline : image
- * validation-inline : in
- * validation-inline : in_array
- * validation-inline : integer
- * validation-inline : ip
- * validation-inline : ipv4
- * validation-inline : ipv6
- * validation-inline : json
- * validation-inline : lt.numeric
- * validation-inline : lt.file
- * validation-inline : lt.string
- * validation-inline : lt.array
- * validation-inline : lte.numeric
- * validation-inline : lte.file
- * validation-inline : lte.string
- * validation-inline : lte.array
- * validation-inline : max.numeric
- * validation-inline : max.file
- * validation-inline : max.string
- * validation-inline : max.array
- * validation-inline : mimes
- * validation-inline : mimetypes
- * validation-inline : min.numeric
- * validation-inline : min.file
- * validation-inline : min.string
- * validation-inline : min.array
- * validation-inline : not_in
- * validation-inline : not_regex
- * validation-inline : numeric
- * validation-inline : password
- * validation-inline : present
- * validation-inline : regex
- * validation-inline : required
- * validation-inline : required_if
- * validation-inline : required_unless
- * validation-inline : required_with
- * validation-inline : required_with_all
- * validation-inline : required_without
- * validation-inline : required_without_all
- * validation-inline : same
- * validation-inline : size.numeric
- * validation-inline : size.file
- * validation-inline : size.string
- * validation-inline : size.array
- * validation-inline : starts_with
- * validation-inline : string
- * validation-inline : timezone
- * validation-inline : unique
- * validation-inline : uploaded
- * validation-inline : url
- * validation-inline : uuid
 
 [ [to top](#todo-list) ]
 </details>
@@ -14801,7 +9850,7 @@ into your web browser:
 ## vi
 
 <details>
-<summary>show<small> (all missing: 218, including not present: 110)</small></summary>
+<summary>show<small> (all missing: 129, including not present: 110)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -14932,95 +9981,6 @@ into your web browser:
  * json : You may delete any of your existing tokens if they are no longer needed. : not present
  * json : You may not delete your personal team.
  * json : You may not leave a team that you created.
- * passwords : throttled
- * validation-inline : accepted
- * validation-inline : active_url
- * validation-inline : after
- * validation-inline : after_or_equal
- * validation-inline : alpha
- * validation-inline : alpha_dash
- * validation-inline : alpha_num
- * validation-inline : array
- * validation-inline : before
- * validation-inline : before_or_equal
- * validation-inline : between.numeric
- * validation-inline : between.file
- * validation-inline : between.string
- * validation-inline : between.array
- * validation-inline : boolean
- * validation-inline : confirmed
- * validation-inline : date
- * validation-inline : date_equals
- * validation-inline : date_format
- * validation-inline : different
- * validation-inline : digits
- * validation-inline : digits_between
- * validation-inline : dimensions
- * validation-inline : distinct
- * validation-inline : email
- * validation-inline : ends_with
- * validation-inline : exists
- * validation-inline : file
- * validation-inline : filled
- * validation-inline : gt.numeric
- * validation-inline : gt.file
- * validation-inline : gt.string
- * validation-inline : gt.array
- * validation-inline : gte.numeric
- * validation-inline : gte.file
- * validation-inline : gte.string
- * validation-inline : gte.array
- * validation-inline : image
- * validation-inline : in
- * validation-inline : in_array
- * validation-inline : integer
- * validation-inline : ip
- * validation-inline : ipv4
- * validation-inline : ipv6
- * validation-inline : json
- * validation-inline : lt.numeric
- * validation-inline : lt.file
- * validation-inline : lt.string
- * validation-inline : lt.array
- * validation-inline : lte.numeric
- * validation-inline : lte.file
- * validation-inline : lte.string
- * validation-inline : lte.array
- * validation-inline : max.numeric
- * validation-inline : max.file
- * validation-inline : max.string
- * validation-inline : max.array
- * validation-inline : mimes
- * validation-inline : mimetypes
- * validation-inline : min.numeric
- * validation-inline : min.file
- * validation-inline : min.string
- * validation-inline : min.array
- * validation-inline : not_in
- * validation-inline : not_regex
- * validation-inline : numeric
- * validation-inline : password
- * validation-inline : present
- * validation-inline : regex
- * validation-inline : required
- * validation-inline : required_if
- * validation-inline : required_unless
- * validation-inline : required_with
- * validation-inline : required_with_all
- * validation-inline : required_without
- * validation-inline : required_without_all
- * validation-inline : same
- * validation-inline : size.numeric
- * validation-inline : size.file
- * validation-inline : size.string
- * validation-inline : size.array
- * validation-inline : starts_with
- * validation-inline : string
- * validation-inline : timezone
- * validation-inline : unique
- * validation-inline : uploaded
- * validation-inline : url
- * validation-inline : uuid
 
 [ [to top](#todo-list) ]
 </details>
