@@ -9,9 +9,17 @@
             "email": "caouecs@example.com"
         }
     ],
+    "require-dev": {
+        "phpunit/phpunit": "^9.4"
+    },
     "autoload": {
         "psr-4": {
             "Lang\\": "script/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
         }
     },
     "suggest": {
