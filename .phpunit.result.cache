@@ -1,0 +1,1 @@
+C:37:"PHPUnit\Runner\DefaultTestResultCache":257:{a:2:{s:7:"defects";a:0:{}s:5:"times";a:5:{s:24:"Tests\JsonTest::testJson";d:0.08;s:22:"Tests\PhpTest::testPhp";d:0.148;s:32:"Tests\StatusLocalesTest::testSee";d:0.076;s:25:"Tests\StatusTest::testSee";d:0.022;s:31:"Tests\StatusTest::testDoesntSee";d:0.001;}}}
