@@ -21,6 +21,7 @@ return [
     'alpha_dash'           => 'This field may only contain letters, numbers, dashes and underscores.',
     'alpha_num'            => 'This field may only contain letters and numbers.',
     'array'                => 'This field must be an array.',
+    'attached'             => 'This field is already attached.',
     'before'               => 'This must be a date before :date.',
     'before_or_equal'      => 'This must be a date before or equal to :date.',
     'between'              => [
@@ -98,6 +99,7 @@ return [
     'password'             => 'The password is incorrect.',
     'present'              => 'This field must be present.',
     'regex'                => 'This format is invalid.',
+    'relatable'            => 'This field may not be associated with this resource.',
     'required'             => 'This field is required.',
     'required_if'          => 'This field is required when :other is :value.',
     'required_unless'      => 'This field is required unless :other is in :values.',
@@ -105,6 +107,9 @@ return [
     'required_with_all'    => 'This field is required when :values are present.',
     'required_without'     => 'This field is required when :values is not present.',
     'required_without_all' => 'This field is required when none of :values are present.',
+    'prohibited'           => 'This field is prohibited.',
+    'prohibited_if'        => 'This field is prohibited when :other is :value.',
+    'prohibited_unless'    => 'This field is prohibited unless :other is in :values.',
     'same'                 => 'The value of this field must match the one from :other.',
     'size'                 => [
         'numeric' => 'The value must be :size.',
@@ -114,10 +119,10 @@ return [
     ],
     'starts_with'          => 'This must start with one of the following: :values.',
     'string'               => 'This must be a string.',
-    'timezone'             => 'This must be a valid zone.',
+    'timezone'             => 'This must be a valid timezone.',
     'unique'               => 'This has already been taken.',
     'uploaded'             => 'This failed to upload.',
-    'url'                  => 'This format is invalid.',
+    'url'                  => 'This must be a valid URL.',
     'uuid'                 => 'This must be a valid UUID.',
 
     /*
