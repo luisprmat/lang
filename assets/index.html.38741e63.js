@@ -1,0 +1,1 @@
+const e={key:"v-8daa1a0e",path:"/",title:"Getting Started",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1642755096e3,contributors:[{name:"Andrey Helldar",email:"helldar@ai-rus.com",commits:19},{name:"Fred Delrieu",email:"caouecs@caouecs.net",commits:1}]},filePathRelative:"index.md"};export{e as data};
